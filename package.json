@@ -1,0 +1,20 @@
+{
+  "name": "rocket-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "rocket start",
+    "docs": "rocket build"
+  },
+  "keywords": [],
+  "author": "silverbirder <silverbirder@gmail.com> (https://silver-birder.github.io/)",
+  "license": "ISC",
+  "devDependencies": {
+    "@rocket/blog": "^0.4.0",
+    "@rocket/cli": "^0.10.1",
+    "@rocket/launch": "^0.6.0",
+    "@rocket/search": "^0.5.1"
+  },
+  "type": "module"
+}
