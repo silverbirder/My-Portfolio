@@ -122,7 +122,7 @@ LLVMは、任意のフロントエンド言語(コンパイラという文脈で
 また、非言語依存な中間言語(以下、IR)を中心として設計されています。
 
 <figure title="Retargetablity - The Architecture of Open Source Applications: LLVM">
-<img alt="Retargetablity - The Architecture of Open Source Applications: LLVM" src="http://www.aosabook.org/images/llvm/RetargetableCompiler.png">
+<img alt="Retargetablity - The Architecture of Open Source Applications: LLVM" src="https://www.aosabook.org/images/llvm/RetargetableCompiler.png">
 <figcaption>Retargetablity - The Architecture of Open Source Applications: LLVM<figcaption>
 </figure>  
 
