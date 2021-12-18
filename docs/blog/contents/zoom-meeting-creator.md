@@ -11,7 +11,7 @@ cover_image:
 ZoomのMeetingを自動生成するGASライブラリを公開しましたので、
 そのきっかけと使い方について紹介しようと思います。
 
-[:contents]
+<!--  TODO: TOC -->
 
 # きっかけ
 社のSlackで次のqiitaの記事を知りました。

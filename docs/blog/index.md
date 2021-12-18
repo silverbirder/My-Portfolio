@@ -11,5 +11,3 @@ pagination:
 ---
 
 # Blog
-
-Discover articles from the core team and contributors about Rocket, tips and tricks included!

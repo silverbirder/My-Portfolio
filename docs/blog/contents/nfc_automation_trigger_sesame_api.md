@@ -10,7 +10,7 @@ cover_image:
 # まえおき
 これからiOSを前提として話を進めていきますが、話の主題としてはiOSかどうかはあまり関係ありません。
 
-[:contents]
+<!--  TODO: TOC -->
 
 # NFC Automation Trigger
 [13.1のiOSリリース](https://support.apple.com/ja-jp/HT210393#131)によりNFC Automation Triggerが使えるようになりました。NFCとは、Wikiによると次のようなものです。

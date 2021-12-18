@@ -12,7 +12,7 @@ cover_image:
 
 [https://github.com/Silver-birder/micro-frontends-sample-code-5/](https://github.com/Silver-birder/micro-frontends-sample-code-5/)  <!--  TODO: embed  -->
 
-[:contents]
+<!--  TODO: TOC -->
 
 # Edge Side Include (ESI)って？
 

@@ -7,7 +7,7 @@ tags: []
 cover_image: 
 ---
 
-[:contents]
+<!--  TODO: TOC -->
 
 <figure title="Photo by Shahadat Shemul on Unsplash">
 <img alt="Photo by Shahadat Shemul on Unsplash" src="https://res.cloudinary.com/silverbirder/image/upload/v1614412165/silver-birder.github.io/blog/photo_by_Shahadat_Shemul_on_Unsplash.jpg">

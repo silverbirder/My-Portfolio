@@ -9,7 +9,7 @@ cover_image:
 
 私が実際に使ってみて便利だと感じたオススメ商品を３つ紹介します！
 
-[:contents]
+<!--  TODO: TOC -->
 
 <figure title="Photo by BENCE BOROS on Unsplash">
 <img src="https://res.cloudinary.com/silverbirder/image/upload/v1614412113/silver-birder.github.io/blog/photo_by_BENCE_BOROS_on_Unsplash.jpg" alt="Photo by BENCE BOROS on Unsplash">

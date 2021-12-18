@@ -27,7 +27,7 @@ hastagはこちら [#AWSSummit](https://twitter.com/hashtag/AWSSummit)
 私のメモはこちら
 [https://scrapbox.io/silverbirder-memo/AWS_Summit_Osaka_2019](https://scrapbox.io/silverbirder-memo/AWS_Summit_Osaka_2019)  <!--  TODO: embed  -->
 
-[:contents]
+<!--  TODO: TOC -->
 # Amazon Sumerian によるVR/AR/MRアプリケーションの開発
 ## Amazon Sumerianの位置づけ
 

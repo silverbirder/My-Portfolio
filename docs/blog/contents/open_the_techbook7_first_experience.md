@@ -18,7 +18,7 @@ cover_image:
 
 [https://techbookfest.org/event/tbf07/circle/5117648689954816](https://techbookfest.org/event/tbf07/circle/5117648689954816)  <!--  TODO: embed  -->
 
-[:contents]
+<!--  TODO: TOC -->
 
 ## きっかけ
 

@@ -9,7 +9,7 @@ cover_image:
 
 Google Apps Script (以下、GAS)で、困ったことがあったので備忘録として残しておこうと思います。
 
-[:contents]
+<!--  TODO: TOC -->
 
 # やろうとしたこと
 

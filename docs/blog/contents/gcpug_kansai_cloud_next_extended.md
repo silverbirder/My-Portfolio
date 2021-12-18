@@ -16,7 +16,7 @@ cover_image:
 
 こちらの参加しましたので、ご報告します。hashtagはこちらです。[#next19extended](https://twitter.com/hashtag/next19extended)
 
-[:contents]
+<!--  TODO: TOC -->
 
 # 目的
 > 2019/04/09 ～ 04/11 にサンフランシスコで開催された

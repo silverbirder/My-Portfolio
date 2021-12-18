@@ -17,7 +17,7 @@ cover_image:
 
 [https://bmxug.connpass.com/event/117966/](https://bmxug.connpass.com/event/117966/)  <!--  TODO: embed  -->
 
-[:contents]
+<!--  TODO: TOC -->
 
 # Watson Discovery
 ## Watson Discoveryとは？？

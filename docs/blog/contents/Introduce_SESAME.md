@@ -11,7 +11,7 @@ cover_image:
 
 ![SESAME BOX](https://res.cloudinary.com/silverbirder/image/upload/v1614345786/silver-birder.github.io/blog/SESAME_BOX.png)
 
-[:contents]
+<!--  TODO: TOC -->
 
 # SESAME(セサミ)って なに？
 

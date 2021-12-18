@@ -12,7 +12,7 @@ cover_image:
 <figcaption>rMinc</figcaption>
 </figure>
 
-[:contents]
+<!--  TODO: TOC -->
 
 # ターゲットユーザー
 

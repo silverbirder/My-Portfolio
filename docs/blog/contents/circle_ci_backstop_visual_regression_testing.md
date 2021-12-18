@@ -9,7 +9,7 @@ cover_image:
 
 CircleCIとBackstopJSを組み合わせて、『継続的にWebページの視覚的な変化を監視するツール』を作成しました。
 
-[:contents]
+<!--  TODO: TOC -->
 
 [https://github.com/Silver-birder/silver-enigma](https://github.com/Silver-birder/silver-enigma)  <!--  TODO: embed  -->
 

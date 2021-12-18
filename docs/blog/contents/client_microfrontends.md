@@ -13,7 +13,7 @@ cover_image:
 
 [https://github.com/Silver-birder/micro-frontends-sample-code-6](https://github.com/Silver-birder/micro-frontends-sample-code-6)  <!--  TODO: embed  -->
 
-[:contents]
+<!--  TODO: TOC -->
 
 # 概要
 

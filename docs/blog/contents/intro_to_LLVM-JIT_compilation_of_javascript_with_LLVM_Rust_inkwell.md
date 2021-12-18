@@ -17,7 +17,7 @@ LLVMの記事は数多くありますが、初心者向けの記事が少なく�
 
 [https://github.com/Silver-birder/rustscript](https://github.com/Silver-birder/rustscript)  <!--  TODO: embed  -->
 
-[:contents]
+<!--  TODO: TOC -->
 
 # 自己紹介
 

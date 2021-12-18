@@ -19,7 +19,7 @@ Twitterに投稿されているLinkを収集するツール Cotlin を作りま�
 
 [https://www.npmjs.com/package/@silverbirder/cotlin](https://www.npmjs.com/package/@silverbirder/cotlin)  <!--  TODO: embed  -->
 
-[:contents]
+<!--  TODO: TOC -->
 
 # 動機
 私は、[connpass](https://connpass.com/)等を使って、技術系のカンファレンスに参加することがありました。

@@ -14,7 +14,7 @@ cover_image:
 本記事は、テストの種類を列挙します。
 ※ 使用する技術は、私の都合上、node.jsで選んでいます。
 
-[:contents]
+<!--  TODO: TOC -->
 
 # テスト観点一覧
 ## Cache Test

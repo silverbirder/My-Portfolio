@@ -7,7 +7,7 @@ tags: []
 cover_image: 
 ---
 
-[:contents]
+<!--  TODO: TOC -->
 
 # ストーリー
 1. [一足遅れて Kubernetes を学び始める - 01. 環境選択編 -](./start_the_learning_kubernetes_01.md)

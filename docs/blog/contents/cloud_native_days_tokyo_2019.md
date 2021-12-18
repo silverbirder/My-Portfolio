@@ -15,7 +15,7 @@ cover_image:
 今回、東京で開催されましたCloud Native Days Tokyo 2019に2日間とも参加してきましたので、報告しようと思います。
 セッション毎の報告というより、全体を通した感想を話そうかなと思います。
 
-[:contents]
+<!--  TODO: TOC -->
 
 [https://cloudnativedays.jp/cndt2019/](https://cloudnativedays.jp/cndt2019/)  <!--  TODO: embed  -->
 

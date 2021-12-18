@@ -19,7 +19,7 @@ cover_image:
 
 [https://github.com/Silver-birder/apache-beam-kotlin-example/tree/master/src/main/kotlin](https://github.com/Silver-birder/apache-beam-kotlin-example/tree/master/src/main/kotlin)  <!--  TODO: embed  -->
 
-[:contents]
+<!--  TODO: TOC -->
 
 # Apache Beam とは
 

@@ -30,7 +30,7 @@ GDG DevFest Tokyo 2019というイベントに参加してきました。
 
 [https://gdg-tokyo.connpass.com/event/137666/](https://gdg-tokyo.connpass.com/event/137666/)  <!--  TODO: embed  -->
 
-[:contents]
+<!--  TODO: TOC -->
 
 # GDG DevFest Tokyo 2019
 > DevFest は、Google Developer Group (GDG) コミュニティによって世界各地で開かれるデベロッパー向けイベントです。東京では、Android、Google Cloud Platform（GCP）、Web、Firebase、Machine Learning （ML）、Assistant、Flutter、Goといった様々な技術の最新情報や現場でのノウハウを一日で学べるコミュニティイベントとして開催しています。去年に引き続き 4 回目の開催となります。

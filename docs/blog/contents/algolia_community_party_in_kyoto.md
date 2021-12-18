@@ -16,7 +16,7 @@ cover_image:
 <figcaption>Algolia Community Party in 京都 - 2019年5月10日</figcaption>
 </figure>
 
-[:contents]
+<!--  TODO: TOC -->
 
 # Algoliaって？
 ## 百聞は一見にしかず

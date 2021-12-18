@@ -7,7 +7,7 @@ tags: []
 cover_image: 
 ---
 
-[:contents]
+<!--  TODO: TOC -->
 
 # Micro Frontends とは?🤔
 皆さん、**Micro Fronends**(以下、MFE)をご存知でしょうか。説明をざっくりしますと、Microservicesの考え方をフロントエンドまで拡張した考え方です。Microservicesは、バックエンド側で適用される事例をよく耳にしますが、フロントエンドでの適用事例は、あまり聞いたことがありません。

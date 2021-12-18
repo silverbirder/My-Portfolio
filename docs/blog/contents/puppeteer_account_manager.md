@@ -16,7 +16,7 @@ GoogleやGithubなど、様々なサービスのプロフィール情報(画像,
 
 [https://github.com/Silver-birder/puppeteer-account-manager](https://github.com/Silver-birder/puppeteer-account-manager)  <!--  TODO: embed  -->
 
-[:contents]
+<!--  TODO: TOC -->
 # なんで作ったの？
 
 GithubやTwitter、Facebookなど、Webサービスにはプロフィール画像を登録することができます。

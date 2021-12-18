@@ -9,7 +9,7 @@ cover_image:
 
 ArchUnitをというものを最近知りました。依存関係のテストができるそうです。さっそく試してみたいと思いますので、その備忘録として残しておきます。
 
-[:contents]
+<!--  TODO: TOC -->
 
 # ArchUnit
 

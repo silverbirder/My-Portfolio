@@ -19,7 +19,7 @@ Google/Appleどちらも大好きで、けど海外カンファレンスにい�
 
 hashtagはこちら [#mixleap](https://twitter.com/hashtag/mixleap)
 
-[:contents]
+<!--  TODO: TOC -->
 
 # Google I/Oとは？
 Googleが主催する、開発者向けイベントです。

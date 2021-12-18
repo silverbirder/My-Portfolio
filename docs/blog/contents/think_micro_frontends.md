@@ -17,7 +17,7 @@ Micro Frontendsに関わる記事を100件以上読みました(参考記事に�
 
 [https://github.com/Silver-birder/think-micro-frontends](https://github.com/Silver-birder/think-micro-frontends)  <!--  TODO: embed  -->
 
-[:contents]
+<!--  TODO: TOC -->
 
 # 発端
 

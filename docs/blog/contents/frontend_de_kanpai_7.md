@@ -32,7 +32,7 @@ firebaseの勢いがすごい。あとnowも多少人気で、now信者の私と
 
 [https://frokan.connpass.com/event/135584/](https://frokan.connpass.com/event/135584/)  <!--  TODO: embed  -->
 
-[:contents]
+<!--  TODO: TOC -->
 
 # イベント概要
 > 「Frontend de KANPAI!」（以下、FROKAN）は、フロントエンドエンジニアやフロントエンドに興味がある人が集い、ドリンク片手にゆるく交流・技術交換ができるコミュニティを目指しています。

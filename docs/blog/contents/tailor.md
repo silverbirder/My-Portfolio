@@ -17,7 +17,7 @@ Zalando社が開発したTailorを使って、サンプルWebアプリをMicro F
 作ったリポジトリは、下記に残しています。
 [https://github.com/Silver-birder/micro-frontends-sample-code-4](https://github.com/Silver-birder/micro-frontends-sample-code-4)  <!--  TODO: embed  -->
 
-[:contents]
+<!--  TODO: TOC -->
 
 # 全体構成
 

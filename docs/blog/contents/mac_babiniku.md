@@ -9,7 +9,7 @@ cover_image:
 
 ![バ美肉](https://res.cloudinary.com/silverbirder/image/upload/v1614412301/silver-birder.github.io/blog/%E3%83%8F%E3%82%99%E7%BE%8E%E8%82%89.png)
 
-[:contents]
+<!--  TODO: TOC -->
 
 # きっかけ
 

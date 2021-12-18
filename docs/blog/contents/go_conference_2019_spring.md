@@ -24,7 +24,7 @@ cover_image:
 東京都千代田区丸の内1-9-2 グラントーキョーサウスタワー
 ```
 
-[:contents]
+<!--  TODO: TOC -->
 
 # よかったセッション
 ## H1 (S): Hacking Go Compiler Internals 2

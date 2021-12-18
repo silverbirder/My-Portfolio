@@ -14,7 +14,7 @@ cover_image:
 Google Apps Script(以下,GAS)でライブラリを公開しました。ライブラリを開発する際、**テストのフィードバックサイクルを短くする**ため、`Clasp + Typescript + Jest` という技術スタックを選択しました。
 その開発体験について共有しようと思います。特段変わったことはしていません。
 
-[:contents]
+<!--  TODO: TOC -->
 
 # Google Apps Scriptのテストってどうしてますか？
 
