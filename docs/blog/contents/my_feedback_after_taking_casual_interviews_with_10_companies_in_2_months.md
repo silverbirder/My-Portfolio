@@ -4,7 +4,7 @@ published: true
 date: 2021-11-12
 description: 100日後に退職する47歳さんのお話が、Twitter上で話題ですね。その投稿が続いている裏で、私は、転職活動をしていました。その活動内容や感想について、かんたんにまとめておきたいと思います。
 tags: ["Casual Interview", "Thoughts"]
-cover_image: 
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1611128736/silver-birder.github.io/assets/logo.png
 ---
 
 [100日後に退職する47歳さんのお話](https://twitter.com/i/events/1418432177168031749)が、Twitter上で話題ですね。

@@ -4,7 +4,7 @@ published: true
 date: 2020-01-12
 description: 背景 普段、業務でユニットテストを書いたり、レビューをしたりしています。ユニットテストがあることは良いことなのですが、困ったことがあります。それは、ユニットテストのルールが明確じゃない点です。そのため、人によって、ユニットテストの書き方がマチマチで、なんとかしたいなと困っています。
 tags: ["Unit Test", "Testing"]
-cover_image: 
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1611128736/silver-birder.github.io/assets/logo.png
 ---
 
 <!--  TODO: TOC -->

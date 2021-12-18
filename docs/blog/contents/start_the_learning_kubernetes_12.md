@@ -4,7 +4,7 @@ published: true
 date: 2019-05-29
 description: 前回 一足遅れて Kubernetes を学び始める - 11. config&storage その2 -では、storageについて学習しました。今回は、リソース制限について学習します。
 tags: ["Kubernetes", "Story", "Beginner"]
-cover_image: 
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1611128736/silver-birder.github.io/assets/logo.png
 ---
 
 <!--  TODO: TOC -->

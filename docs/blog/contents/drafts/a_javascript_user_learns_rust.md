@@ -4,7 +4,7 @@ published: false
 date: 2021-06-06
 description: 
 tags: []
-cover_image: 
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1611128736/silver-birder.github.io/assets/logo.png
 ---
 
 # 書きたいこと

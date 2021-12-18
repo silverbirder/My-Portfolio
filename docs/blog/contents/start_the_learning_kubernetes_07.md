@@ -4,7 +4,7 @@ published: true
 date: 2019-05-06
 description: 前回 一足遅れて Kubernetes を学び始める - 06. workloads その2 -にて、DaemonSetとStatefulSet(一部）を学習しました。今回は、StatefulSetの続きとJob,CronJobを学習します。
 tags: ["Kubernetes", "Story", "Beginner"]
-cover_image: 
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1611128736/silver-birder.github.io/assets/logo.png
 ---
 
 <!--  TODO: TOC -->

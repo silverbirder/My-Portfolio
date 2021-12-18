@@ -3,7 +3,7 @@ module.exports = function () {
     dir: 'ltr',
     lang: 'ja',
     name: 'silverbirder',
-    description: 'silverbirderのポートフォリオページへようこそ!',
+    description: "Welcome to silverbirder's portfolio page!",
     socialLinks: [
       {
         name: 'GitHub',
@@ -21,5 +21,6 @@ module.exports = function () {
     iconColorMaskIcon: '#3f93ce',
     iconColorMsapplicationTileColor: '#1d3557',
     iconColorThemeColor: '#1d3557',
+    // analytics: 'UA-131782693-2', // modern web key
   };
 };

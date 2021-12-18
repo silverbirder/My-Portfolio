@@ -4,7 +4,7 @@ published: true
 date: 2019-05-05
 description: 前回 一足遅れて Kubernetes を学び始める - 05. workloads その1 -では、Pod,ReplicaSet,Deploymentの３つを学習しました。今回はDaemonSet,StatefulSet(一部)を学びます。
 tags: ["Kubernetes", "Story", "Beginner"]
-cover_image: 
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1611128736/silver-birder.github.io/assets/logo.png
 ---
 
 <!--  TODO: TOC -->
