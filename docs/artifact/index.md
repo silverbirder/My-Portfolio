@@ -1,37 +1,21 @@
 # Artifact
 
-```js script
-class CardList extends HTMLElement {
-  static get observedAttributes() {
-    return ['data'];
-  }
-  constructor() {
-    super();
-    const shadowRoot = this.attachShadow({ mode: 'open' });
-  }
+## Web Site / App
 
-  connectedCallback() {
-      this.render();
-  }
+* [マイクロフロントエンド入門](https://intro-to-micro-frontends.netlify.app/)
+* [GAP(Gather the presentation)](https://silverbirder-gap.netlify.app/)
 
-  attributeChangedCallback(name, oldValue, newValue) {
-      // nothing
-  }
+## Github My App
 
-  async render() {
-      const shadow = this.shadowRoot;
-      const data = await this.fetch();
-      shadow.innerHTML = data.items.map((i) => {
-        return `<div>${i.name}</div>`
-      }).join('');
-  }
-
-  async fetch() {
-    return await (await fetch(`./${this.getAttribute('data')}`)).json();
-  }
-}
-
-customElements.define('card-list', CardList);
-```
-
-<card-list data="index.json"></card-list>
+* [https://github.com/Silver-birder/CaAT](https://github.com/Silver-birder/CaAT)
+* [https://github.com/Silver-birder/Cotlin](https://github.com/Silver-birder/Cotlin)
+* [https://github.com/Silver-birder/google-word-cloud](https://github.com/Silver-birder/google-word-cloud)
+* [https://github.com/Silver-birder/notify-message-by-google-home](https://github.com/Silver-birder/notify-message-by-google-home)
+* [https://github.com/Silver-birder/puppeteer-account-manager](https://github.com/Silver-birder/puppeteer-account-manager)
+* [https://github.com/Silver-birder/rMinc](https://github.com/Silver-birder/rMinc)
+* [https://github.com/Silver-birder/run_character](https://github.com/Silver-birder/run_character)
+* [https://github.com/Silver-birder/search-local-web](https://github.com/Silver-birder/search-local-web)
+* [https://github.com/Silver-birder/searchWordCloud](https://github.com/Silver-birder/searchWordCloud)
+* [https://github.com/Silver-birder/silver-enigma](https://github.com/Silver-birder/silver-enigma)
+* [https://github.com/Silver-birder/tiqav2/](https://github.com/Silver-birder/tiqav2/)
+* [https://github.com/Silver-birder/zoom-meeting-creator](https://github.com/Silver-birder/zoom-meeting-creator)
