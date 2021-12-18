@@ -1,6 +1,6 @@
 ---
 title: Javascript使いがRustを学んでみた
-published: true
+published: false
 date: 2021-06-06
 description: 
 tags: []

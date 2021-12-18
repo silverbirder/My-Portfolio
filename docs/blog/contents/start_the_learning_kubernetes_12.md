@@ -2,8 +2,8 @@
 title: 一足遅れて Kubernetes を学び始める - 12. リソース制限 -
 published: true
 date: 2019-05-29
-description: 
-tags: []
+description: 前回 一足遅れて Kubernetes を学び始める - 11. config&storage その2 -では、storageについて学習しました。今回は、リソース制限について学習します。
+tags: ["Kubernetes", "Story", "Beginner"]
 cover_image: 
 ---
 

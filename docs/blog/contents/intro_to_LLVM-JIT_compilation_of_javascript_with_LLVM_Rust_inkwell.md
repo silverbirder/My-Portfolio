@@ -2,9 +2,9 @@
 title: LLVM入門 - javascriptをLLVM(Rust:inkwell)でJITコンパイルするまで
 published: true
 date: 2021-09-04
-description: 
-tags: []
-cover_image: 
+description: コンパイラ基盤であるLLVMについて、全く知識がない私が、javascriptソースコードをパースしLLVMでコンパイルできるようになりました。LLVMの記事は数多くありますが、初心者向けの記事が少なく感じたため、本記事では、できる限り分かりやすくLLVMについて紹介できる記事を書こうと思います。ソースコードは、こちらに置いています。
+tags: ["LLVM", "Beginner", "Javascript", "Rust", "Inkwell", "JIT"]
+cover_image: https://www.aosabook.org/images/llvm/RetargetableCompiler.png
 ---
 
 コンパイラ基盤であるLLVMについて、全く知識がない私が、
@@ -26,7 +26,7 @@ LLVMについて、全く知識がなかった人間です。
 
 # 背景
 
-過去に、おもちゃのブラウザ自作をやってみました。([ブラウザの仕組みを学ぶ](https://silver-birder.github.io/blog/contents/learning_browser_engine))
+過去に、おもちゃのブラウザ自作をやってみました。([ブラウザの仕組みを学ぶ](./learning_browser_engine.md))
 HTMLとCSSを解析し、レンダリングするところを書き、基本的な動作を知ることができました。
 HTMLとCSSとくれば、次はJSだと思い、JSを実行するエンジンを書いてみたくなりました。
 ただし、WebブラウザのAPIとJS実行エンジンをバインディングする箇所(EX.DOM操作)は難しいので、

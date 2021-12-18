@@ -2,19 +2,14 @@
 title: Algolia Community Party in 京都 - 2019年5月10日 参加レポート
 published: true
 date: 2019-05-11
-description: 
-tags: []
-cover_image: 
+description: Algolia Community Party in 京都 - 2019年5月10日。こちらに参加しましたので、ご報告までに記事を書こうと思います。
+tags: ["Report", "Algolia", "Kyoto"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614431407/silver-birder.github.io/blog/Algolia_Community_Party_in_Kyoto_2019_5_10.png
 ---
 
-[https://algolia.connpass.com/event/128524/](https://algolia.connpass.com/event/128524/)  <!--  TODO: embed  -->
+[Algolia Community Party in 京都 - 2019年5月10日](https://algolia.connpass.com/event/128524/)  <!--  TODO: embed  -->
 
 こちらに参加しましたので、ご報告までに記事を書こうと思います。
-
-<figure title="Algolia Community Party in 京都 - 2019年5月10日">
-<img alt="Algolia Community Party in 京都 - 2019年5月10日" src="https://res.cloudinary.com/silverbirder/image/upload/v1614431407/silver-birder.github.io/blog/Algolia_Community_Party_in_Kyoto_2019_5_10.png">
-<figcaption>Algolia Community Party in 京都 - 2019年5月10日</figcaption>
-</figure>
 
 <!--  TODO: TOC -->
 

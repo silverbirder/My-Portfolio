@@ -2,14 +2,12 @@
 title: 20代後半エンジニアである私がこれから学ぶべきこと
 published: true
 date: 2020-10-29
-description: 
-tags: []
-cover_image: 
+description: 私は、現在26歳のWebエンジニアです。これまでの技術に対する学び方と、これからの技術に対する学び方について、少し考えたいと思っています。
+tags: ["Learning"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614431503/silver-birder.github.io/blog/Pexels_Akil_Mazumder_Photo.jpg
 ---
 
-<figure title="PexelsのAkil Mazumderによる写真">
-<img alt="PexelsのAkil Mazumderによる写真" src="https://res.cloudinary.com/silverbirder/image/upload/v1614431503/silver-birder.github.io/blog/Pexels_Akil_Mazumder_Photo.jpg"><figcaption>PexelsのAkil Mazumderによる写真</figcaption>
-</figure>
+<!-- TODO: PexelsのAkil Mazumderによる写真 -->
 
 私は、現在26歳のWebエンジニアです。これまでの技術に対する学び方と、これからの技術に対する学び方について、少し考えたいと思っています。
 

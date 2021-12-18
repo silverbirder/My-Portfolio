@@ -2,18 +2,13 @@
 title: 【増枠】Frontend de KANPAI! #7 - Going on 令和 - 2019年7月19日参加レポート
 published: true
 date: 2019-07-20
-description: 
-tags: []
-cover_image: 
+description: 今回はDeNAさん主催のFrontendのイベントに参加してきましたので、報告しようと思います。hashtagはこちら frokan イベント概要 「Frontend de KANPAI!」（以下、FROKAN）は、フロントエンドエンジニアやフロントエンドに興味がある人が集い、ドリンク片手にゆるく交流・技術交換ができるコミュニティを目指しています。
+tags: ["Report", "Frontend", "Tokyo"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1613819448/silver-birder.github.io/blog/20190720095423.jpg
 ---
 
 今回はDeNAさん主催のFrontendのイベントに参加してきましたので、
 報告しようと思います。hashtagはこちら [#frokan](https://twitter.com/hashtag/frokan)
-
-<figure title="frontend de kanpai">
-<img alt="frontend de kanpai" src="https://res.cloudinary.com/silverbirder/image/upload/v1613819448/silver-birder.github.io/blog/20190720095423.jpg">
-<figcaption>frontend de kanpai</figcaption>
-</figure>
 
 <figure title="frontend de kanpai tech board">
 <img alt="frontend de kanpai tech board" src="https://res.cloudinary.com/silverbirder/image/upload/v1614429379/silver-birder.github.io/blog/frontend_de_kanpai_tech_board.jpg">
@@ -21,6 +16,7 @@ cover_image:
 </figure>
 
 firebaseの勢いがすごい。あとnowも多少人気で、now信者の私とっては嬉しい 。
+
 <figure title="frontend de kanpai novelty">
 <img alt="frontend de kanpai novelty" src="https://res.cloudinary.com/silverbirder/image/upload/v1614429431/silver-birder.github.io/blog/frontend_de_kanpai_novelty.jpg">
 <figcaption>frontend de kanpai novelty</figcaption>

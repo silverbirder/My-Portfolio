@@ -2,9 +2,9 @@
 title: 技術書典7で初執筆した経験をすべて公開
 published: true
 date: 2019-09-06
-description: 
-tags: []
-cover_image: 
+description: 技術書典7で初執筆しました。記事の目的 * 執筆でどういったことをしたのかの備忘録 * 執筆を考えている人の助けになりたい実際に販売する本は↓のものです。
+tags: ["Writing Book", "Learning"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614430347/silver-birder.github.io/blog/ReViewStarter_sample_page.png
 ---
 
 技術書典7で初執筆しました。

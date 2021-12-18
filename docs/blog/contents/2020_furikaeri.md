@@ -2,8 +2,8 @@
 title: 2020年の振り返り。結婚と継続力
 published: true
 date: 2020-12-30
-description: 
-tags: []
+description: 2020年も、もう残りわずかになりました。今年の振り返りをはじめてブログに残そうと思います。
+tags: ["Looking Back"]
 cover_image: 
 ---
 

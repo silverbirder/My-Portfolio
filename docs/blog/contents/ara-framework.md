@@ -2,15 +2,12 @@
 title: Ara-Framework で Micro Frontends with SSR
 published: true
 date: 2020-08-23
-description: 
-tags: []
-cover_image: 
+description: みなさん、こんにちは。silverbirder です。、Micro Frontends があります。今、Ara-Frameworkというフレームワークを使った Micro Frontends のアプローチ方法を学んでいます。
+tags: ["Ara Framework", "Micro Frontends", "SSR"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614430802/silver-birder.github.io/blog/Photo_by_Artem_Sapegin_on_Unsplash.jpg
 ---
 
-<figure title="Photo by Artem Sapegin on Unsplash">
-<img alt="Photo by Artem Sapegin on Unsplash" src="https://res.cloudinary.com/silverbirder/image/upload/v1614430802/silver-birder.github.io/blog/Photo_by_Artem_Sapegin_on_Unsplash.jpg">
-<figcaption><span>Photo by <a href="https://unsplash.com/@sapegin?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Artem Sapegin</a> on <a href="https://unsplash.com/s/photos/html?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span></figcaption>
-</figure>
+<!-- TODO: <span>Photo by <a href="https://unsplash.com/@sapegin?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Artem Sapegin</a> on <a href="https://unsplash.com/s/photos/html?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> -->
 
 みなさん、こんにちは。silverbirder です。
 私の最近の興味として、Micro Frontends があります。

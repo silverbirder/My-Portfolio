@@ -2,15 +2,12 @@
 title: Zalando tailor で Micro Frontends with ( LitElement  & etcetera)
 published: true
 date: 2020-10-04
-description: 
-tags: []
-cover_image: 
+description: Zalando社が開発したTailorを使って、サンプルWebアプリをMicro Frontendsで構築してみました。Tailorはサーバーサイドで統合するアーキテクチャです。クライアントサイドは、Web Componentsで作られているLit Elementを使って統合しました。どういった内容か、ここに投稿しようと思います。
+tags: ["Zalando Tailor", "Micro Frontends", "Lit Element"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614429982/silver-birder.github.io/blog/Photo_by_Kenny_Luo_on_Unsplash.jpg
 ---
 
-<figure title="Photo by Kenny Luo on Unsplash">
-<img alt="Photo by Kenny Luo on Unsplash" src="https://res.cloudinary.com/silverbirder/image/upload/v1614429982/silver-birder.github.io/blog/Photo_by_Kenny_Luo_on_Unsplash.jpg">
-<figcaption><span>Photo by <a href="https://unsplash.com/@kennyluoping?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Kenny Luo</a> on <a href="https://unsplash.com/s/photos/tailor?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span></figcaption>
-</figure>
+<!-- <span>Photo by <a href="https://unsplash.com/@kennyluoping?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Kenny Luo</a> on <a href="https://unsplash.com/s/photos/tailor?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> -->
 
 Zalando社が開発したTailorを使って、サンプルWebアプリをMicro Frontendsで構築してみました。Tailorはサーバーサイドで統合するアーキテクチャです。クライアントサイドは、Web Componentsで作られているLit Elementを使って統合しました。どういった内容か、ここに投稿しようと思います。
 
@@ -42,10 +39,10 @@ tailorは、ストリーミングレイアウトサービスというだけあ�
 templates/index.html
 ```html
 <body>
-　　<div id="outlet"></div>
-　　<fragment src="http://localhost:7000" defer></fragment>
-　　<fragment src="http://localhost:8000" defer></fragment>
-　　<fragment src="http://localhost:9000" defer></fragment>
+  <div id="outlet"></div>
+  <fragment src="http://localhost:7000" defer></fragment>
+  <fragment src="http://localhost:8000" defer></fragment>
+  <fragment src="http://localhost:9000" defer></fragment>
 </body>
 ```
 

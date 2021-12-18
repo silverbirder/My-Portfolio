@@ -2,8 +2,8 @@
 title: 一足遅れて Kubernetes を学び始める - 06. workloads その2 -
 published: true
 date: 2019-05-05
-description: 
-tags: []
+description: 前回 一足遅れて Kubernetes を学び始める - 05. workloads その1 -では、Pod,ReplicaSet,Deploymentの３つを学習しました。今回はDaemonSet,StatefulSet(一部)を学びます。
+tags: ["Kubernetes", "Story", "Beginner"]
 cover_image: 
 ---
 
@@ -407,8 +407,8 @@ drwxrwxrwx 2 nobody nogroup 4096 May  5 17:18 default-www-sample-statefulset-2-p
 `--prune`でも良いのですが、下記のほうが使いやすかったです。
 
 ```shell
-pi@raspi001:~/tmp $　k delete -f sample-ds.yaml -f sample-statefulset.yaml
-pi@raspi001:~/tmp $　k delete pvc www-sample-statefulset-{0,1,2}
+pi@raspi001:~/tmp $ k delete -f sample-ds.yaml -f sample-statefulset.yaml
+pi@raspi001:~/tmp $ k delete pvc www-sample-statefulset-{0,1,2}
 ```
 
 ※ `k get pv`と`k get pvc`を試して頂き、今回作ったリソースがありましたら削除お願いします。

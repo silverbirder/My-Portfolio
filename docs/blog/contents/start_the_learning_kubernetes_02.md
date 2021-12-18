@@ -2,9 +2,9 @@
 title: 一足遅れて Kubernetes を学び始める - 02. Docker For Mac -
 published: true
 date: 2019-04-27
-description: 
-tags: []
-cover_image: 
+description: 前回 一足遅れて Kubernetes を学び始める - 01. 環境選択編 -にて、Kubernetesを学ぶ環境を考えてみました。いきなりGKEを使うんじゃなくて、お手軽に試せるDockerForMacを使おうとなりました。
+tags: ["Kubernetes", "Story", "Beginner"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1639816747/silver-birder.github.io/blog/Kubernetes_learning.png
 ---
 
 <!--  TODO: TOC -->
@@ -71,7 +71,7 @@ Kubernetesでは、MasterNodeとWorkerNodeの2種類のNodeが存在しており
 私なりの理解をアウトプットしたものが下記になります。
 (ほとんど真似した感じです。しかし、アウトプットするだけで理解が深まるため実施。 **アウトプット大事！** )
 
-![Kubernetes_learning.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/143813/f53b8321-a01c-c03e-77cb-2e90a1ca30ef.png)
+![Kubernetes_learning.png](https://res.cloudinary.com/silverbirder/image/upload/v1639816747/silver-birder.github.io/blog/Kubernetes_learning.png)
 
 
 ```shell

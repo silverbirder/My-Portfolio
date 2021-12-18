@@ -2,9 +2,9 @@
 title: Google Apps Script で FetchAllとRedirctURL の組み合わせは悪い
 published: true
 date: 2020-02-24
-description: 
-tags: []
-cover_image: 
+description: Google Apps Script (以下、GAS)で、困ったことがあったので備忘録として残しておこうと思います。
+tags: ["Google Apps Script", "Learning"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614429255/silver-birder.github.io/blog/FetchAll_and_RedirectURL.png
 ---
 
 Google Apps Script (以下、GAS)で、困ったことがあったので備忘録として残しておこうと思います。

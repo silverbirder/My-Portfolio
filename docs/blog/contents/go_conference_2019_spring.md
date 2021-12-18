@@ -2,15 +2,10 @@
 title: Go Conference 2019 Spring - 2019年5月18日 参加レポート
 published: true
 date: 2019-05-21
-description: 
-tags: []
-cover_image: 
+description: https://gocon.jp こちらに参加してきましたので、ご報告します！
+tags: ["Report", "Go Conference", "Tokyo"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614428902/silver-birder.github.io/blog/go_conference_2019_spring_coffee.jpg
 ---
-
-<figure title="Go Conference 2019 Spring Coffee">
-<img alt="Go Conference 2019 Spring Coffee" src="https://res.cloudinary.com/silverbirder/image/upload/v1614428902/silver-birder.github.io/blog/go_conference_2019_spring_coffee.jpg">
-<figcaption>Go Conference 2019 Spring Coffee</figcaption>
-</figure>
 
 [https://gocon.connpass.com/event/124530/](https://gocon.connpass.com/event/124530/)  <!--  TODO: embed  -->
 
@@ -120,6 +115,6 @@ Golangはドンドンと人気になっていく言語なのかなと期待し�
 Google TeamであるKatie Hockmanのspeakingが英語だったために、ほとんど聞き取ることができませんでした。
 実にもったいないと感じました。
 
-※　資料まとめ
+※ 資料まとめ
 [https://engineer-fumi.hatenablog.com/entry/2019/05/18/172000](https://engineer-fumi.hatenablog.com/entry/2019/05/18/172000)  <!--  TODO: embed  -->
 

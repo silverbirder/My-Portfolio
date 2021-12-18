@@ -2,8 +2,8 @@
 title: 一足遅れて Kubernetes を学び始める - 13. ヘルスチェックとコンテナライフサイクル -
 published: true
 date: 2019-05-30
-description: 
-tags: []
+description: 前回 一足遅れて Kubernetes を学び始める - 12. リソース制限 -では、requestsやlimitなどのリソース制限について学習しました。今回は、ヘルスチェックとコンテナライフサイクルについて学習します。
+tags: ["Kubernetes", "Story", "Beginner"]
 cover_image: 
 ---
 

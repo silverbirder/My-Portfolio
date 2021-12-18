@@ -2,15 +2,10 @@
 title: 【大阪】GCPUG Kansai 〜 Cloud Next Extended ～ - 2019年5月14日 参加レポート
 published: true
 date: 2019-05-22
-description: 
-tags: []
-cover_image: 
+description: こちらの参加しましたので、ご報告します。hashtagはこちらです。next19extended 目的 2019/04/09 ～ 04/11 にサンフランシスコで開催された Google Cloud Next '19 San Francisco で発表された Google Cloud の 新サービスに関する解説や振り返りの内容がメインのイベントとなります！
+tags: ["Report", "GCP", "Osaka"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614429188/silver-birder.github.io/blog/GCPUG_Kansai_Cloud_Next_Extended_guide.jpg
 ---
-
-<figure title="GCPUG Kansai Cloud Next Extended 案内板">
-<img alt="GCPUG Kansai Cloud Next Extended 案内板" src="https://res.cloudinary.com/silverbirder/image/upload/v1614429188/silver-birder.github.io/blog/GCPUG_Kansai_Cloud_Next_Extended_guide.jpg">
-<figcaption>GCPUG Kansai Cloud Next Extended 案内板</figcaption>
-</figure>
 
 [https://gcpug-osaka.connpass.com/event/128130/](https://gcpug-osaka.connpass.com/event/128130/)  <!--  TODO: embed  -->
 

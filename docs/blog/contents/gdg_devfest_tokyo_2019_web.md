@@ -2,9 +2,9 @@
 title: GDG DevFest Tokyo 2019に参加したら、Webの未来にワクワクした
 published: true
 date: 2019-12-16
-description: 
-tags: []
-cover_image: 
+description: GDG DevFest Tokyo 2019というイベントに参加してきました。最近はプライベートの都合上、中々時間が取れていませんでした。しかし今回、会社の都合上、良い感じに時間を確保できたため、こちらのイベントに参加してきました。`大阪→東京` でわざわざ新幹線を使ってまで参加しましたが、それに見合う発見が多くありました。今回、私が学んだ内容について、報告しようかなと思います。
+tags: ["Report", "GDG", "Dev Fest", "Tokyo", "Web"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614429012/silver-birder.github.io/blog/GDG_DevFest_Tokyo_2019_Gate.jpg
 ---
 
 GDG DevFest Tokyo 2019というイベントに参加してきました。
@@ -12,11 +12,6 @@ GDG DevFest Tokyo 2019というイベントに参加してきました。
 しかし今回、会社の都合上、良い感じに時間を確保できたため、こちらのイベントに参加してきました。
 `大阪→東京` でわざわざ新幹線を使ってまで参加しましたが、それに見合う発見が多くありました。
 今回、私が学んだ内容について、報告しようかなと思います。
-
-<figure title="GDG DevFest Tokyo 2019 ゲート">
-<img alt="GDG DevFest Tokyo 2019 ゲート" src="https://res.cloudinary.com/silverbirder/image/upload/v1614429012/silver-birder.github.io/blog/GDG_DevFest_Tokyo_2019_Gate.jpg">
-<figcaption>GDG DevFest Tokyo 2019 ゲート</figcaption>
-</figure>
 
 <figure title="GDG DevFest Tokyo 2019 スポンサー">
 <img alt="GDG DevFest Tokyo 2019 スポンサー" src="https://res.cloudinary.com/silverbirder/image/upload/v1614429063/silver-birder.github.io/blog/GDG_DevFest_Tokyo_2019_Sponsor.jpg">

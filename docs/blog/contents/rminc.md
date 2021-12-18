@@ -2,15 +2,10 @@
 title: GMailをGCalendarに登録するサービス rMinc を作ってみた
 published: true
 date: 2020-02-17
-description: 
-tags: []
-cover_image: 
+description: ターゲットユーザー * GMailとGCalendarを使っている人 メールを開くって面倒じゃないですか？ 例えば、次のようなメールを受信していたとします。* アマゾンで商品を購入した際、お届け予定日が記載されたメール * 映画館(TOHOシネマ)でネット予約した際、上映日が記載されたメール * ホテルをネット予約した際、宿泊日が記載されたメール
+tags: ["Tool", "Artifacts", "Introduce", "Learning"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614431016/silver-birder.github.io/blog/rMinc.png
 ---
-
-<figure title="rMinc">
-<img alt="rMinc" src="https://res.cloudinary.com/silverbirder/image/upload/v1614431016/silver-birder.github.io/blog/rMinc.png">
-<figcaption>rMinc</figcaption>
-</figure>
 
 <!--  TODO: TOC -->
 

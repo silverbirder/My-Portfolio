@@ -2,14 +2,10 @@
 title: Google Apps Script でも テスト がしたい！ (Clasp + Typescript + Jest)
 published: true
 date: 2020-02-01
-description: 
-tags: []
-cover_image: 
+description: Google Apps Script(以下,GAS)でライブラリを公開しました。ライブラリを開発する際、テストのフィードバックサイクルを短くするため、`Clasp + Typescript + Jest` という技術スタックを選択しました。その開発体験について共有しようと思います。特段変わったことはしていません。
+tags: ["Google Apps Script", "Testing", "Clasp", "Typescript", "Jest"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614431246/silver-birder.github.io/blog/google_apps_script_and_typescript_and_jest.png
 ---
-
-<figure title="Google Apps Script + Typescript + Jest">
-<img alt="Google Apps Script + Typescript + Jest" src="https://res.cloudinary.com/silverbirder/image/upload/v1614431246/silver-birder.github.io/blog/google_apps_script_and_typescript_and_jest.png">
-<figcaption>Google Apps Script + Typescript + Jest</figcaption></figure>
 
 Google Apps Script(以下,GAS)でライブラリを公開しました。ライブラリを開発する際、**テストのフィードバックサイクルを短くする**ため、`Clasp + Typescript + Jest` という技術スタックを選択しました。
 その開発体験について共有しようと思います。特段変わったことはしていません。

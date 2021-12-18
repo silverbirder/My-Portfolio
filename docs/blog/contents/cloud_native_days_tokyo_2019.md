@@ -2,15 +2,10 @@
 title: Cloud Native Days Tokyo 2019 -2019年7月22-23日参加レポート
 published: true
 date: 2019-07-27
-description: 
-tags: []
-cover_image: 
+description: 今回、東京で開催されましたCloud Native Days Tokyo 2019に2日間とも参加してきましたので、報告しようと思います。セッション毎の報告というより、全体を通した感想を話そうかなと思います。
+tags: ["Report", "Cloud Native Days", "Tokyo", "Kubernetes"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614429605/silver-birder.github.io/blog/cloud_native_days_tokyo_2019.png
 ---
-
-<figure title="cloud native days tokyo 2019">
-<img alt="cloud native days tokyo 2019" src="https://res.cloudinary.com/silverbirder/image/upload/v1614429605/silver-birder.github.io/blog/cloud_native_days_tokyo_2019.png">
-<figcaption>cloud native days tokyo 2019</figcaption>
-</figure>
 
 今回、東京で開催されましたCloud Native Days Tokyo 2019に2日間とも参加してきましたので、報告しようと思います。
 セッション毎の報告というより、全体を通した感想を話そうかなと思います。
@@ -33,7 +28,7 @@ cover_image:
 
 次の図では、CNCFプロジェクトの180日間におけるCommit数をグラフ化したものです。
 生みの親であるGoogleが1位でindependent(個人)が2番目、日本企業Fujitsuが6位です。熱意が伝わってきますね。  
-　
+ 
 <figure title="https://www.stackalytics.com/cncf?date=180">
 <img alt="https://www.stackalytics.com/cncf?date=180" src="https://res.cloudinary.com/silverbirder/image/upload/v1614429648/silver-birder.github.io/blog/stackalytics_cncf.png">
 <figcaption><a href="https://www.stackalytics.com/cncf?date=180">https://www.stackalytics.com/cncf?date=180</a></figcaption>
@@ -61,7 +56,7 @@ cover_image:
 ※ [https://github.com/cncf/toc/blob/master/DEFINITION.md#日本語版](https://github.com/cncf/toc/blob/master/DEFINITION.md#日本語版)
 
 「スケーラブルなアプリケーションを構築および実行」が重要です。これを実現する手段の１つにKubernetesがあります。
-「CloudNative = Kubernetes」ではなく、「CloudNative ∋　Kubernetes」という感じです。
+「CloudNative = Kubernetes」ではなく、「CloudNative ∋ Kubernetes」という感じです。
 
 ただ、最近ではKubernetesを違う観点で考える人が増えてきたそうです。
 それが、二日目のKeynoteで発表された北山さんのスライドにあります。

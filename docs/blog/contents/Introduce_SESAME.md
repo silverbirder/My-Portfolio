@@ -2,14 +2,12 @@
 title: SESAME(セサミ) が届いたよ！
 published: true
 date: 2019-04-08
-description: 
-tags: []
-cover_image: 
+description: 「鍵どこいったっけ？」という悩みから、おさらば！
+tags: ["SESAME", "Smart Gadgets"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614345786/silver-birder.github.io/blog/SESAME_BOX.png
 ---
 
 「鍵どこいったっけ？」という悩みから、おさらば！
-
-![SESAME BOX](https://res.cloudinary.com/silverbirder/image/upload/v1614345786/silver-birder.github.io/blog/SESAME_BOX.png)
 
 <!--  TODO: TOC -->
 

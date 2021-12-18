@@ -2,15 +2,10 @@
 title: 【大阪・梅田】Kubernetes Meetup Tokyo #19 大阪サテライト- 2019年5月31日参加レポート
 published: true
 date: 2019-06-01
-description: 
-tags: []
-cover_image: 
+description: 大阪からKubernetes Meetup Tokyoに参加できるとのことで、こちらに参加してきました。Kubernetesの生みの親である3人の内の1人のJoe Bedaから、Kubernetesの歴史の経緯について教えて頂きました。その話がとてもわかりやすく、なるほどなと思ったので、ぜひとも共有したいと思います。
+tags: ["Report", "Kubernetes", "Tokyo", "Osaka"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614428700/silver-birder.github.io/blog/kubernetes_osaka_satellite.png
 ---
-
-<figure title="kubernetes osaka satellite">
-<img alt="kubernetes osaka satellite" src="https://res.cloudinary.com/silverbirder/image/upload/v1614428700/silver-birder.github.io/blog/kubernetes_osaka_satellite.png">
-<figcaption>kubernetes osaka Satellite</figcaption>
-</figure>
 
 大阪からKubernetes Meetup Tokyoに参加できるとのことで、こちらに参加してきました。
 Kubernetesの生みの親である3人の内の1人のJoe Bedaから、**Kubernetesの歴史**の経緯について教えて頂きました。

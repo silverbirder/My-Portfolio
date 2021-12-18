@@ -2,17 +2,14 @@
 title: Roundup IT Antenna Sites
 published: true
 date: 2019-07-03
-description: 
-tags: []
-cover_image: 
+description: 背景 今年の9月にPyConJP 2019が開催されます。 https://pycon.jp/2019/ LTの募集があったので、LT応募するためのネタ探しをはじめました
+tags: ["Roundup", "IT"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614412165/silver-birder.github.io/blog/photo_by_Shahadat_Shemul_on_Unsplash.jpg
 ---
 
 <!--  TODO: TOC -->
 
-<figure title="Photo by Shahadat Shemul on Unsplash">
-<img alt="Photo by Shahadat Shemul on Unsplash" src="https://res.cloudinary.com/silverbirder/image/upload/v1614412165/silver-birder.github.io/blog/photo_by_Shahadat_Shemul_on_Unsplash.jpg">
-<figcaption>Photo by <a href="https://unsplash.com/@shemul?utm_source=medium&utm_medium=referral">Shahadat Shemul</a> on <a href="https://unsplash.com/?utm_source=medium&utm_medium=referral">Unsplash</a></figcaption>
-</figure>
+<!-- TODO: Photo by <a href="https://unsplash.com/@shemul?utm_source=medium&utm_medium=referral">Shahadat Shemul</a> on <a href="https://unsplash.com/?utm_source=medium&utm_medium=referral">Unsplash</a> -->
 
 # 背景
 今年の9月にPyConJP 2019が開催されます。

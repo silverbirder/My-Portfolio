@@ -2,9 +2,9 @@
 title: 一足遅れて Kubernetes を学び始める  - 01. 環境選択編 -
 published: true
 date: 2019-04-18
-description: 
-tags: []
-cover_image: 
+description: 経緯 Kubernetesを使えるようになりたいな〜（定義不明） けど、他にやりたいこと（アプリ開発）あるから後回しにしちゃえ〜！！と、今までずっと、ちゃんと学ばなかったKubernetesを、本腰入れて使ってみようと思います。
+tags: ["Kubernetes", "Story", "Beginner"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1639816542/silver-birder.github.io/blog/GKE_template_1.png
 ---
 
 <!--  TODO: TOC -->
@@ -44,15 +44,15 @@ iMac (21.5-inch, 2017)
 
 ## GKE SetUp
 
-![GKE 標準クラスタ テンプレート 1](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/143813/ad09881d-d3b7-1e03-48e4-a41466fb857d.png)
+![GKE 標準クラスタ テンプレート 1](https://res.cloudinary.com/silverbirder/image/upload/v1639816542/silver-birder.github.io/blog/GKE_template_1.png)
 
 ノードってのは、ポッド（コンテナ）を入れるマシンなんだっけな。 ([PodとNode](https://nownabe.github.io/kubernetes-doc/tutorials/kubernetes_basics/3_explore_your_app.html))
 
-![GKE 標準クラスタ テンプレート 2](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/143813/680b83b8-d59a-e4f7-4497-5b4d542fc796.png)
+![GKE 標準クラスタ テンプレート 2](https://res.cloudinary.com/silverbirder/image/upload/v1639816542/silver-birder.github.io/blog/GKE_template_2.png)
 
 まあ、デフォルトで良いよね 🤔 
 
-![GKE 標準クラスタ テンプレート 3](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/143813/b5f2b248-28a2-77a5-649e-4d9e85d58ace.png)
+![GKE 標準クラスタ テンプレート 3](https://res.cloudinary.com/silverbirder/image/upload/v1639816542/silver-birder.github.io/blog/GKE_template_3.png)
 
 単語がどれも分からなさすぎる...(Istio?自動プロビジョニング?垂直ポッド自動スケーリング？) 🤔🤔🤔 
 

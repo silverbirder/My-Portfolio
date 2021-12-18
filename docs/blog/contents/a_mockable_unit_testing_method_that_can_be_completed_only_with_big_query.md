@@ -3,7 +3,7 @@ title: BigQueryだけで完結するモック可能なユニットテスト手�
 published: true
 date: 2021-11-26
 description: BigQuery、皆さん使っていますか？ 私は、業務でBigQueryを使ったデータ構築をしています。品質担保のため、BigQueryのSQLに対してテストをしたいと考えています。本記事では、BigQueryだけで完結し、かつ、Mockデータを差し替え可能なユニットテスト手法について、紹介します。
-tags: [html, bigquery, mock, unittest]
+tags: ["HTML", "BigQuery", "Mock", "Unit Test", "Testing"]
 cover_image: 
 ---
 

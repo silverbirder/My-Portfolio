@@ -2,9 +2,9 @@
 title: 一足遅れて Kubernetes を学び始める - 16. コンポーネント -
 published: true
 date: 2019-06-10
-description: 
-tags: []
-cover_image: 
+description: 前回 一足遅れて Kubernetes を学び始める - 15. セキュリティ -では、RBACによる権限について学習しました。今回は最後にKubernetesのコンポーネントについて学習します。
+tags: ["Kubernetes", "Story", "Beginner"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1639816831/silver-birder.github.io/blog/kubernetes_master.png
 ---
 
 <!--  TODO: TOC -->
@@ -33,7 +33,7 @@ cover_image:
 # コンポーネント
 Kubernetesでは、下記のような構成になっています。
 
-![スクリーンショット 2019-06-09 20.14.38.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/143813/6d1c59bc-937a-6a5f-91d4-cb0dadd46e2a.png)
+![kubernetes_master.png](https://res.cloudinary.com/silverbirder/image/upload/v1639816831/silver-birder.github.io/blog/kubernetes_master.png)
 
 ※ [https://kubernetes.io/docs/concepts/architecture/cloud-controller/](https://kubernetes.io/docs/concepts/architecture/cloud-controller/)
 

@@ -2,8 +2,8 @@
 title: ZoomのMeetingを自動生成するGASライブラリ zoom-meeting-creator を作った
 published: true
 date: 2020-06-06
-description: 
-tags: []
+description: みなさん、Zoom使っていますか？ ZoomのMeetingを自動生成するGASライブラリを公開しましたので、そのきっかけと使い方について紹介しようと思います。
+tags: ["Tool", "Artifacts", "Introduce", "Learning", "Zoom", "Google Apps Script"]
 cover_image: 
 ---
 

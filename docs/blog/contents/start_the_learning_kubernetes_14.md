@@ -2,8 +2,8 @@
 title: 一足遅れて Kubernetes を学び始める - 14. スケジューリング -
 published: true
 date: 2019-06-05
-description: 
-tags: []
+description: 前回 一足遅れて Kubernetes を学び始める - 13. ヘルスチェックとコンテナライフサイクル -では、requestsやlimitといったヘルスチェックの仕方を学びました。今回は、Affinityなどによるスケジューリングについて学習します。
+tags: ["Kubernetes", "Story", "Beginner"]
 cover_image: 
 ---
 

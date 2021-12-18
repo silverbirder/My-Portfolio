@@ -2,9 +2,9 @@
 title: 一足遅れて Kubernetes を学び始める - 03. Raspberry Pi -
 published: true
 date: 2019-04-28
-description: 
-tags: []
-cover_image: 
+description: 前回 一足遅れて Kubernetes を学び始める - 02. Docker For Mac -では、MacでKubernetesを軽く動かしてみました。DockerForMacでは、NodeがMasterのみだったため、Kubernetesを学習するには、ものたりない感がありました。そこで、RaspberryPiを使っておうちKubernetesを構築することになりました。 
+tags: ["Kubernetes", "Story", "Beginner"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1639816691/silver-birder.github.io/blog/kubernetes_raspberrypi.png
 ---
 
 <!--  TODO: TOC -->
@@ -37,7 +37,7 @@ cover_image:
 * [おうちkubernetesでデータを永続化する](https://qiita.com/inajob/items/7b61904586d0816dfe5f)
 * [kubernetesのラズパイ包みが美味しそうだったので、kubeadmを使って作ってみた](https://qiita.com/shirot61/items/2321b70cd9c93f8f5cf0)
 * [Raspberry PI と kubeadm で自宅 Kubernetes クラスタを構築する](https://qiita.com/hatotaka/items/48a88ecb190e1f5e03c3)
-* [3日間クッキング【Kubernetes のラズペリーパイ包み　“サイバーエージェント風”】](https://developers.cyberagent.co.jp/blog/archives/14721/)
+* [3日間クッキング【Kubernetes のラズペリーパイ包み “サイバーエージェント風”】](https://developers.cyberagent.co.jp/blog/archives/14721/)
 * [33時間クッキング【Kubernetesのラズベリーパイ包み〜ウエパ風〜】](https://engineers.weddingpark.co.jp/?p=1993)
 
 # レシピ
@@ -63,7 +63,7 @@ iMac (21.5-inch, 2017)
 # 構築（物理）
 [Raspberry PiでおうちKubernetes構築【物理編】](https://qiita.com/go_vargo/items/d1271ab60f2bba375dcc)で十分な情報があります。こちらを参考にして組み立てします。
 できたものがこちらです。
-![kubernetes_raspberrypi.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/143813/72661091-1ffa-a9da-76dc-68c53b0f5b39.png)
+![kubernetes_raspberrypi.png](https://res.cloudinary.com/silverbirder/image/upload/v1639816691/silver-birder.github.io/blog/kubernetes_raspberrypi.png)
 
 WiFiを使うために、LANケーブルやWiFi親機などがなくなり、スッキリしました。
 電源を確保できるところであれば、家の中なら、どこでも持ち運びできます。 ✨ 
@@ -126,21 +126,21 @@ pi@raspi001:~ $ sudo dphys-swapfile swapoff && sudo dphys-swapfile uninstall && 
 Dockerをインストールします。
 
 ```shell
-pi@raspi001:~ $　sudo apt-get install apt-transport-https ca-certificates curl software-properties-common -y
-pi@raspi001:~ $　curl -fsSL https://download.docker.com/linux/debian/gpg | sudo apt-key add -
-pi@raspi001:~ $　echo "deb [arch=armhf] https://download.docker.com/linux/$(. /etc/os-release; echo "$ID") \
+pi@raspi001:~ $ sudo apt-get install apt-transport-https ca-certificates curl software-properties-common -y
+pi@raspi001:~ $ curl -fsSL https://download.docker.com/linux/debian/gpg | sudo apt-key add -
+pi@raspi001:~ $ echo "deb [arch=armhf] https://download.docker.com/linux/$(. /etc/os-release; echo "$ID") \
      $(lsb_release -cs) stable" | \
     sudo tee /etc/apt/sources.list.d/docker.list
-pi@raspi001:~ $　sudo apt-get update -y
-pi@raspi001:~ $　sudo apt-get install docker-ce -y
+pi@raspi001:~ $ sudo apt-get update -y
+pi@raspi001:~ $ sudo apt-get install docker-ce -y
 ```
 
 Kubernetesをインストールします。
 
 ```shell
-pi@raspi001:~ $　curl -fsSL https://packages.cloud.google.com/apt/doc/apt-key.gpg|sudo apt-key add - 
-pi@raspi001:~ $　echo "deb http://apt.kubernetes.io/ kubernetes-xenial main" | sudo tee /etc/apt/sources.list.d/kube.list
-pi@raspi001:~ $　sudo apt-get update -y && sudo apt-get install kubelet kubeadm kubectl -y
+pi@raspi001:~ $ curl -fsSL https://packages.cloud.google.com/apt/doc/apt-key.gpg|sudo apt-key add - 
+pi@raspi001:~ $ echo "deb http://apt.kubernetes.io/ kubernetes-xenial main" | sudo tee /etc/apt/sources.list.d/kube.list
+pi@raspi001:~ $ sudo apt-get update -y && sudo apt-get install kubelet kubeadm kubectl -y
 ```
 
 ## 4. MasterNodeの設定
@@ -247,7 +247,7 @@ wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
 
 `http://192.168.3.32:30783`にアクセス
 
-![nginx](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/143813/f7bd2359-a988-28e4-b45b-c24aa9524452.png)
+![nginx](https://res.cloudinary.com/silverbirder/image/upload/v1639816718/silver-birder.github.io/blog/kubernetes_nginx.png)
 
 OK!
 

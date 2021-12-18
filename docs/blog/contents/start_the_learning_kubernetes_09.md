@@ -2,9 +2,9 @@
 title: 一足遅れて Kubernetes を学び始める - 09. discovery&LB その2 -
 published: true
 date: 2019-05-15
-description: 
-tags: []
-cover_image: 
+description: 前回 一足遅れて Kubernetes を学び始める - 08. discovery&LB その1 -でServiceについての概要を学びました。今回は下記を一気に学びます。
+tags: ["Kubernetes", "Story", "Beginner"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1639816612/silver-birder.github.io/blog/sample_deployment_1.png
 ---
 
 <!--  TODO: TOC -->
@@ -122,8 +122,8 @@ pi@raspi001:~/tmp $ for PODNAME in `k get pods -l app=sample-app -o jsonpath='{.
 どこのpodかどうかわかりやすいくするため、index.htmlを書き換えます。
 では、ブラウザからアクセスしてみます。
 
-![スクリーンショット 2019-05-07 23.07.01.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/143813/65d909e2-dc53-9342-4f68-d8ba934a05f2.png)
-![スクリーンショット 2019-05-07 23.07.22.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/143813/da6cba61-8bd8-a094-0c38-bb332eb3002b.png)
+![sample_deployment_1](https://res.cloudinary.com/silverbirder/image/upload/v1639816612/silver-birder.github.io/blog/sample_deployment_1.png)
+![sample_deployment_2](https://res.cloudinary.com/silverbirder/image/upload/v1639816612/silver-birder.github.io/blog/sample_deployment_2.png)
 
 raspi002を公開したので、そのNodeに存在するPodがランダムに出力されている、つまりロードバランサが動作していることがわかります。
 

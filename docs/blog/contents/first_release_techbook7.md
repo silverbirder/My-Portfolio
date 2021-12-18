@@ -2,15 +2,10 @@
 title: 技術書典7 で「はじめてのWeb Components入門」を初出版します！
 published: true
 date: 2019-08-30
-description: 
-tags: []
-cover_image: 
+description: この度、初めて書籍を出版することになりました！「はじめてのWeb Components入門」本を技術書典7で販売します。
+tags: ["Web Components", "Book Publishing"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614430562/silver-birder.github.io/blog/Introduction_to_Web_Components_for_the_First_Time_Cover.png
 ---
-
-<figure title="はじめてのWeb Components入門 表紙">
-<img alt="はじめてのWeb Components入門 表紙" src="https://res.cloudinary.com/silverbirder/image/upload/v1614430562/silver-birder.github.io/blog/Introduction_to_Web_Components_for_the_First_Time_Cover.png">
-<figcaption>はじめてのWeb Components入門 表紙</figcaption>
-</figure>
 
 この度、初めて書籍を出版することになりました！
 「はじめてのWeb Components入門」本を技術書典7で販売します。

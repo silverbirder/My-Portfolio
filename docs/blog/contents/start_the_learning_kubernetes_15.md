@@ -2,8 +2,8 @@
 title: 一足遅れて Kubernetes を学び始める - 15. セキュリティ -
 published: true
 date: 2019-06-07
-description: 
-tags: []
+description: 前回 一足遅れて Kubernetes を学び始める - 14. スケジューリング -では、AffinityなどでPodのスケジューリングについて学習しました。今回は、セキュリティについて学習します。
+tags: ["Kubernetes", "Story", "Beginner"]
 cover_image: 
 ---
 

@@ -2,9 +2,9 @@
 title: 一足遅れて Kubernetes を学び始める - 08. discovery&LB その1 -
 published: true
 date: 2019-05-07
-description: 
-tags: []
-cover_image: 
+description: 前回 一足遅れて Kubernetes を学び始める - 07. workloads その3 -でようやくworkloadsが終了しました。今回は、discovery&LBを進めようと思います。
+tags: ["Kubernetes", "Story", "Beginner"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1639816788/silver-birder.github.io/blog/pod_ip_adress_kubernetes.png
 ---
 
 <!--  TODO: TOC -->
@@ -99,7 +99,7 @@ sample-deployment-9dc487867-n8x5w   10.244.2.66   raspi003
 sample-deployment-9dc487867-nxbxc   10.244.2.67   raspi003
 ```
 
-![pod ip adress](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/143813/44e0d3a4-7acd-e5cc-9362-e6ea14850589.png)
+![pod ip adress](https://res.cloudinary.com/silverbirder/image/upload/v1639816788/silver-birder.github.io/blog/pod_ip_adress_kubernetes.png)
 
 このような状況下で、`sample-deployment-9dc487867-n8x5w:redis`を中心に見ていきます。
 

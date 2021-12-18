@@ -2,9 +2,9 @@
 title: CircleCI + BackstopJS (Puppeteer) でビジュアルリグレッションテストを継続的に監視する
 published: true
 date: 2019-11-15
-description: 
-tags: []
-cover_image: 
+description: CircleCIとBackstopJSを組み合わせて、『継続的にWebページの視覚的な変化を監視するツール』を作成しました。
+tags: ["CircleCI", "BackstopJS", "Puppeteer", "Visual Regression Testing", "Monitoring"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1573651959/backstopjs/backstopjs.png
 ---
 
 CircleCIとBackstopJSを組み合わせて、『継続的にWebページの視覚的な変化を監視するツール』を作成しました。
@@ -12,8 +12,6 @@ CircleCIとBackstopJSを組み合わせて、『継続的にWebページの視�
 <!--  TODO: TOC -->
 
 [https://github.com/Silver-birder/silver-enigma](https://github.com/Silver-birder/silver-enigma)  <!--  TODO: embed  -->
-
-![backstopjs](https://res.cloudinary.com/silverbirder/image/upload/v1573651959/backstopjs/backstopjs.png)
 
 # Motivation
 Webアプリを運用する上で、システム改善は継続的に行われます。

@@ -2,15 +2,12 @@
 title: Micro Frontends を調べたすべて
 published: true
 date: 2020-10-07
-description: 
-tags: []
-cover_image: 
+description: Micro Frontendsに関わる記事を100件以上読みました(参考記事に記載しています)。そこから得たMicro Frontendsについてこの投稿に記録します。また、調査メモについて、次のリポジトリに残しています。
+tags: ["Micro Frontends", "Learning"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614431656/silver-birder.github.io/blog/Photo_by_Dil_on_Unsplash.jpg
 ---
 
-<figure title="Photo by Dil on Unsplash">
-<img alt="Photo by Dil on Unsplash" src="https://res.cloudinary.com/silverbirder/image/upload/v1614431656/silver-birder.github.io/blog/Photo_by_Dil_on_Unsplash.jpg">
-<figcaption><span>Photo by <a href="https://unsplash.com/@thevisualiza?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Dil</a> on <a href="https://unsplash.com/s/photos/lego-block?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span></figcaption>
-</figure>
+<!-- TODO: <span>Photo by <a href="https://unsplash.com/@thevisualiza?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Dil</a> on <a href="https://unsplash.com/s/photos/lego-block?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> -->
 
 Micro Frontendsに関わる記事を100件以上読みました(参考記事に記載しています)。そこから得たMicro Frontendsについてこの投稿に記録します。
 また、調査メモについて、次のリポジトリに残しています。

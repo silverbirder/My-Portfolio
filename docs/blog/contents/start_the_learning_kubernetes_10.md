@@ -2,8 +2,8 @@
 title: 一足遅れて Kubernetes を学び始める - 10. config&storage その1 -
 published: true
 date: 2019-05-23
-description: 
-tags: []
+description: 前回 一足遅れて Kubernetes を学び始める - 09. discovery&LB その2 -では、様々なserviceを学習しました。今回は、config&storageのconfigを学びます。
+tags: ["Kubernetes", "Story", "Beginner"]
 cover_image: 
 ---
 

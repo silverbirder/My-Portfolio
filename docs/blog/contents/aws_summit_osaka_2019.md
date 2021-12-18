@@ -2,20 +2,15 @@
 title: AWS Summit Osaka 2019 2019年6月27日参加レポート
 published: true
 date: 2019-06-29
-description: 
-tags: []
-cover_image: 
+description: 大阪のグランフロント大阪で開かれました「AWS Summit Osaka 2019」に参加してきましたので、私の中で良かった３つのセッションを紹介したいなと思います。
+tags: ["AWS", "Report", "Osaka"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614430707/silver-birder.github.io/blog/AWS_Summit_Osaka_2019.png
 ---
 
 大阪のグランフロント大阪で開かれました「AWS Summit Osaka 2019」に参加してきましたので、
 私の中で良かった３つのセッションを紹介したいなと思います。
 
 [https://aws.amazon.com/jp/summits/osaka-2019/](https://aws.amazon.com/jp/summits/osaka-2019/)  <!--  TODO: embed  -->
-
-<figure title="AWS Summit Osaka 2019">
-<img alt="AWS Summit Osaka 2019" src="https://res.cloudinary.com/silverbirder/image/upload/v1614430707/silver-birder.github.io/blog/AWS_Summit_Osaka_2019.png">
-<figcaption>AWS Summit Osaka 2019</figcaption>
-</figure>
 
 <figure title="もらったもの">
 <img alt="もらったもの" src="https://res.cloudinary.com/silverbirder/image/upload/v1614430752/silver-birder.github.io/blog/AWS_Summit_Osaka_2019_Novelty.png">

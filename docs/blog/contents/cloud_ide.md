@@ -2,12 +2,10 @@
 title: コロナ禍におけるエンジニアのためのCloud IDE
 published: true
 date: 2020-12-12
-description: 
-tags: []
-cover_image: 
+description: 2020年3月頃からコロナが流行りだし、もう12月になります。働き方が大きく変わり、リモートワークが当たり前の時代となりました。エンジニアの働き方も同様に変わりました。そこで、今回はCloud IDEというものを紹介しようと思います。
+tags: ["Cloud IDE", "Engineer"]
+cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1613138210/silver-birder.github.io/blog/20201211224606.png
 ---
-
-![header image](https://res.cloudinary.com/silverbirder/image/upload/v1613138210/silver-birder.github.io/blog/20201211224606.png)
 
 2020年3月頃からコロナが流行りだし、もう12月になります。働き方が大きく変わり、リモートワークが当たり前の時代となりました。
 エンジニアの働き方も同様に変わりました。そこで、今回はCloud IDEというものを紹介しようと思います。
