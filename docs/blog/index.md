@@ -5,7 +5,7 @@ eleventyNavigation:
   order: 30
 pagination:
   data: collections.blog
-  size: 10
+  size: 100
   reverse: true
   alias: posts
 ---
