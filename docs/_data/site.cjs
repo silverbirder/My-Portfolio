@@ -1,9 +1,9 @@
 module.exports = function () {
   return {
     dir: 'ltr',
-    lang: 'en',
+    lang: 'ja',
     name: 'silverbirder',
-    description: 'Rocket is the way to build fast static websites with a sprinkle of JavaScript',
+    description: 'silverbirderのポートフォリオページへようこそ!',
     socialLinks: [
       {
         name: 'GitHub',
@@ -15,7 +15,7 @@ module.exports = function () {
       }
     ],
     gitSiteUrl: 'https://github.com/Silver-birder/Silver-birder.github.io',
-    gitBranch: 'master',
+    gitBranch: 'main',
     helpUrl: 'https://github.com/Silver-birder/Silver-birder.github.io/issues',
     logoAlt: 'Rocket Logo',
     iconColorMaskIcon: '#3f93ce',
