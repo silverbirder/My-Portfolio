@@ -10,4 +10,4 @@ pagination:
   alias: posts
 ---
 
-# Blog
+# Blog || 20
