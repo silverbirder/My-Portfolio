@@ -1,7 +1,7 @@
 ---
 title: silverbirder
 layout: layout-home-background
-slogan: Hello, World! Here is the silverbirder site.
+slogan: Welcome to silverbirder's portfolio page!
 ---
 
 ```js script
