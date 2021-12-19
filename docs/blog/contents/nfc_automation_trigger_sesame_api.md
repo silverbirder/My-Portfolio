@@ -5,6 +5,7 @@ date: 2019-12-28
 description: まえおき これからiOSを前提として話を進めていきますが、話の主題としてはiOSかどうかはあまり関係ありません。 NFC Automation Trigger 13.1のiOSリリース によりNFC Automation Triggerが使えるようになりました。NFCとは、Wikiによると次のようなものです。
 tags: ["NFC", "SESAME"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614345501/silver-birder.github.io/blog/apple_watch_suica.jpg
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1614345501/silver-birder.github.io/blog/apple_watch_suica.jpg
 ---
 
 # まえおき

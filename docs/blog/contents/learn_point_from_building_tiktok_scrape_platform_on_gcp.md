@@ -5,6 +5,7 @@ date: 2021-08-28
 description: TikTokへスクレイプするバッチをGCP上で構築しました。GCP構築のシステム設計話と、その構築時に、ハマったことを共有します。
 tags: ["TikTok", "GCP", "Learning"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1630224935/silver-birder.github.io/blog/tiktok_scraper_doc2.png
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1630224935/silver-birder.github.io/blog/tiktok_scraper_doc2.png
 ---
 
 TikTokへスクレイプするバッチをGCP上で構築しました。

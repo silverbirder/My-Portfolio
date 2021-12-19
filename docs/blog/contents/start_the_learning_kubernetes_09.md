@@ -5,6 +5,7 @@ date: 2019-05-15
 description: 前回 一足遅れて Kubernetes を学び始める - 08. discovery&LB その1 -でServiceについての概要を学びました。今回は下記を一気に学びます。
 tags: ["Kubernetes", "Story", "Beginner"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1639816612/silver-birder.github.io/blog/sample_deployment_1.png
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1639816612/silver-birder.github.io/blog/sample_deployment_1.png
 ---
 
 <!--  TODO: TOC -->

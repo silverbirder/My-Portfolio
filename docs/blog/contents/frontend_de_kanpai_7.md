@@ -5,6 +5,7 @@ date: 2019-07-20
 description: 今回はDeNAさん主催のFrontendのイベントに参加してきましたので、報告しようと思います。hashtagはこちら frokan イベント概要 「Frontend de KANPAI!」（以下、FROKAN）は、フロントエンドエンジニアやフロントエンドに興味がある人が集い、ドリンク片手にゆるく交流・技術交換ができるコミュニティを目指しています。
 tags: ["Report", "Frontend", "Tokyo"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1613819448/silver-birder.github.io/blog/20190720095423.jpg
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1613819448/silver-birder.github.io/blog/20190720095423.jpg
 ---
 
 今回はDeNAさん主催のFrontendのイベントに参加してきましたので、

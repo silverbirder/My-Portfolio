@@ -5,6 +5,7 @@ date: 2020-10-04
 description: Zalando社が開発したTailorを使って、サンプルWebアプリをMicro Frontendsで構築してみました。Tailorはサーバーサイドで統合するアーキテクチャです。クライアントサイドは、Web Componentsで作られているLit Elementを使って統合しました。どういった内容か、ここに投稿しようと思います。
 tags: ["Zalando Tailor", "Micro Frontends", "Lit Element"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614429982/silver-birder.github.io/blog/Photo_by_Kenny_Luo_on_Unsplash.jpg
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1614429982/silver-birder.github.io/blog/Photo_by_Kenny_Luo_on_Unsplash.jpg
 ---
 
 <!-- <span>Photo by <a href="https://unsplash.com/@kennyluoping?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Kenny Luo</a> on <a href="https://unsplash.com/s/photos/tailor?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> -->

@@ -5,6 +5,7 @@ date: 2021-03-03
 description: この度、私のポートフォリオページを刷新致しました。本記事では、刷新することになった動機から、刷新内容、今後について紹介したいと思います。
 tags: ["Portfolio", "Renewal"]
 cover_image: https://raw.githubusercontent.com/Silver-birder/Silver-birder.github.io/main/overview.png
+socialMediaImage: https://raw.githubusercontent.com/Silver-birder/Silver-birder.github.io/main/overview.png
 ---
 
 この度、私のポートフォリオページを刷新致しました。本記事では、

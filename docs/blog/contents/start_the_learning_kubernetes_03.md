@@ -5,6 +5,7 @@ date: 2019-04-28
 description: 前回 一足遅れて Kubernetes を学び始める - 02. Docker For Mac -では、MacでKubernetesを軽く動かしてみました。DockerForMacでは、NodeがMasterのみだったため、Kubernetesを学習するには、ものたりない感がありました。そこで、RaspberryPiを使っておうちKubernetesを構築することになりました。 
 tags: ["Kubernetes", "Story", "Beginner"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1639816691/silver-birder.github.io/blog/kubernetes_raspberrypi.png
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1639816691/silver-birder.github.io/blog/kubernetes_raspberrypi.png
 ---
 
 <!--  TODO: TOC -->

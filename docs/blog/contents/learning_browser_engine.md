@@ -5,6 +5,7 @@ date: 2021-05-24
 description: Webフロントエンジニアたるもの、ブラウザの仕組みに興味を持つのは自然の摂理です。本記事では、私がブラウザの仕組みを学んでいく過程を備忘録として残します。
 tags: ["Browser", "Learning"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1621950014/silver-birder.github.io/blog/remotar-jobs-s5kTY-Ve1c0-unsplash.jpg
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1621950014/silver-birder.github.io/blog/remotar-jobs-s5kTY-Ve1c0-unsplash.jpg
 ---
 
 <!-- TODO: <span>Photo by <a href="https://unsplash.com/@remotarjobs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Remotar Jobs</a> on <a href="https://unsplash.com/s/photos/chrome-browser?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></span> -->

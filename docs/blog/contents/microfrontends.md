@@ -5,6 +5,7 @@ date: 2020-05-04
 description: Micro FrontendsというWebフロントエンドアーキテクチャがあります。このアーキテクチャを知るために、書籍を読み、簡単なサンプルWebアプリを開発しました。そこから学んだことをすべて議事録として残したいと思います。
 tags: ["Micro Frontends", "Learning"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614431108/silver-birder.github.io/blog/everything_I_ve_learned_about_Micro_Frontends.jpg
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1614431108/silver-birder.github.io/blog/everything_I_ve_learned_about_Micro_Frontends.jpg
 ---
 
 Micro FrontendsというWebフロントエンドアーキテクチャがあります。

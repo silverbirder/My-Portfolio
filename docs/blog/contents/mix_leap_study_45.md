@@ -5,6 +5,7 @@ date: 2019-06-27
 description: 今回は、ヤフー株式会社主催の下記セミナーに参加してきました。Google/Appleどちらも大好きで、けど海外カンファレンスにいけなかった私にとって、今回の報告会は<b>新鮮な内容</b>ばかりでした。その内容を記事に書こうと思います。
 tags: ["Report", "Mix Leap Study", "Google I/O", "WWDC", "Osaka"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614430881/silver-birder.github.io/blog/Google_I_O_WWDC_1.png
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1614430881/silver-birder.github.io/blog/Google_I_O_WWDC_1.png
 ---
 
 今回は、ヤフー株式会社主催の下記セミナーに参加してきました。

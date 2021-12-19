@@ -5,6 +5,7 @@ date: 2019-04-18
 description: 経緯 Kubernetesを使えるようになりたいな〜（定義不明） けど、他にやりたいこと（アプリ開発）あるから後回しにしちゃえ〜！！と、今までずっと、ちゃんと学ばなかったKubernetesを、本腰入れて使ってみようと思います。
 tags: ["Kubernetes", "Story", "Beginner"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1639816542/silver-birder.github.io/blog/GKE_template_1.png
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1639816542/silver-birder.github.io/blog/GKE_template_1.png
 ---
 
 <!--  TODO: TOC -->

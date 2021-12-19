@@ -5,6 +5,7 @@ date: 2019-05-22
 description: 今回、k8sの体験を目的として参加したのですが、意外な収穫があったので、共有したく、記事を書くことにしました。
 tags: ["Report", "Osaka", "Kubernetes", "Watson Discovery", "Beginner", "BMXUG"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614431137/silver-birder.github.io/blog/BMXUG.png
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1614431137/silver-birder.github.io/blog/BMXUG.png
 ---
 
 今回、k8sの体験を目的として参加したのですが、意外な収穫があったので、

@@ -5,6 +5,7 @@ date: 2020-10-29
 description: 私は、現在26歳のWebエンジニアです。これまでの技術に対する学び方と、これからの技術に対する学び方について、少し考えたいと思っています。
 tags: ["Learning"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614431503/silver-birder.github.io/blog/Pexels_Akil_Mazumder_Photo.jpg
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1614431503/silver-birder.github.io/blog/Pexels_Akil_Mazumder_Photo.jpg
 ---
 
 <!-- TODO: PexelsのAkil Mazumderによる写真 -->

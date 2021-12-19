@@ -5,6 +5,7 @@ date: 2019-09-06
 description: エンジニアの皆さん、IoT使っていますか？スマートホームに欠かせないIoT商品を使うことで、生活体験はより良くなります。この記事では、ご自宅をスマートホーム化するためのIoT商品をリストアップします。『そんなのあるの？』という気づきがあれば、幸いです。
 tags: ["Smart Gadgets", "Engineer"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614431620/silver-birder.github.io/blog/Banner_vector_created_by_macrovector_www_freepik_com.jpg
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1614431620/silver-birder.github.io/blog/Banner_vector_created_by_macrovector_www_freepik_com.jpg
 ---
 
 <!-- TODO: <a href="https://www.freepik.com/free-photos-vectors/banner">Banner vector created by macrovector - www.freepik.com</a> -->

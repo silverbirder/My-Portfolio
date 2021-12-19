@@ -5,6 +5,7 @@ date: 2019-05-21
 description: https://gocon.jp こちらに参加してきましたので、ご報告します！
 tags: ["Report", "Go Conference", "Tokyo"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614428902/silver-birder.github.io/blog/go_conference_2019_spring_coffee.jpg
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1614428902/silver-birder.github.io/blog/go_conference_2019_spring_coffee.jpg
 ---
 
 [https://gocon.connpass.com/event/124530/](https://gocon.connpass.com/event/124530/)  <!--  TODO: embed  -->

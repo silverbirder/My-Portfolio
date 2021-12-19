@@ -5,6 +5,7 @@ date: 2020-06-18
 description: 最近、Property Based Test という言葉を知りました。他にどういうテストの種類があるのか気になったので、調べてみました。本記事は、テストの種類を列挙します。※ 使用する技術は、私の都合上、node.jsで選んでいます。
 tags: ["Web", "Testing"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614429879/silver-birder.github.io/blog/WebApp_Test.jpg
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1614429879/silver-birder.github.io/blog/WebApp_Test.jpg
 ---
 
 最近、Property Based Test という言葉を知りました。

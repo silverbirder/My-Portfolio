@@ -5,6 +5,7 @@ date: 2020-08-23
 description: みなさん、こんにちは。silverbirder です。、Micro Frontends があります。今、Ara-Frameworkというフレームワークを使った Micro Frontends のアプローチ方法を学んでいます。
 tags: ["Ara Framework", "Micro Frontends", "SSR"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614430802/silver-birder.github.io/blog/Photo_by_Artem_Sapegin_on_Unsplash.jpg
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1614430802/silver-birder.github.io/blog/Photo_by_Artem_Sapegin_on_Unsplash.jpg
 ---
 
 <!-- TODO: <span>Photo by <a href="https://unsplash.com/@sapegin?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Artem Sapegin</a> on <a href="https://unsplash.com/s/photos/html?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> -->

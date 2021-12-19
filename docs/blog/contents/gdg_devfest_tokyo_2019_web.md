@@ -5,6 +5,7 @@ date: 2019-12-16
 description: GDG DevFest Tokyo 2019というイベントに参加してきました。最近はプライベートの都合上、中々時間が取れていませんでした。しかし今回、会社の都合上、良い感じに時間を確保できたため、こちらのイベントに参加してきました。`大阪→東京` でわざわざ新幹線を使ってまで参加しましたが、それに見合う発見が多くありました。今回、私が学んだ内容について、報告しようかなと思います。
 tags: ["Report", "GDG", "Dev Fest", "Tokyo", "Web"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614429012/silver-birder.github.io/blog/GDG_DevFest_Tokyo_2019_Gate.jpg
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1614429012/silver-birder.github.io/blog/GDG_DevFest_Tokyo_2019_Gate.jpg
 ---
 
 GDG DevFest Tokyo 2019というイベントに参加してきました。

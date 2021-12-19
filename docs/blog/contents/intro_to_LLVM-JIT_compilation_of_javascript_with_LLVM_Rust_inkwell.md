@@ -5,6 +5,7 @@ date: 2021-09-04
 description: コンパイラ基盤であるLLVMについて、全く知識がない私が、javascriptソースコードをパースしLLVMでコンパイルできるようになりました。LLVMの記事は数多くありますが、初心者向けの記事が少なく感じたため、本記事では、できる限り分かりやすくLLVMについて紹介できる記事を書こうと思います。ソースコードは、こちらに置いています。
 tags: ["LLVM", "Beginner", "Javascript", "Rust", "Inkwell", "JIT"]
 cover_image: https://www.aosabook.org/images/llvm/RetargetableCompiler.png
+socialMediaImage: https://www.aosabook.org/images/llvm/RetargetableCompiler.png
 ---
 
 コンパイラ基盤であるLLVMについて、全く知識がない私が、

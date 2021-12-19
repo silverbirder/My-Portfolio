@@ -5,6 +5,7 @@ date: 2019-06-29
 description: 大阪のグランフロント大阪で開かれました「AWS Summit Osaka 2019」に参加してきましたので、私の中で良かった３つのセッションを紹介したいなと思います。
 tags: ["AWS", "Report", "Osaka"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614430707/silver-birder.github.io/blog/AWS_Summit_Osaka_2019.png
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1614430707/silver-birder.github.io/blog/AWS_Summit_Osaka_2019.png
 ---
 
 大阪のグランフロント大阪で開かれました「AWS Summit Osaka 2019」に参加してきましたので、

@@ -5,6 +5,7 @@ date: 2019-06-10
 description: 前回 一足遅れて Kubernetes を学び始める - 15. セキュリティ -では、RBACによる権限について学習しました。今回は最後にKubernetesのコンポーネントについて学習します。
 tags: ["Kubernetes", "Story", "Beginner"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1639816831/silver-birder.github.io/blog/kubernetes_master.png
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1639816831/silver-birder.github.io/blog/kubernetes_master.png
 ---
 
 <!--  TODO: TOC -->

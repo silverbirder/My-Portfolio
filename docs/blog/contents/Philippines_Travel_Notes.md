@@ -5,6 +5,7 @@ date: 2019-10-27
 description: 2019年10月11日~2019年10月15日の5日間、フィリピンに行ってきました。日本人男性(前職の先輩:Kikuchi)とフィリピン人女性が結婚するため、その結婚式旅行に同伴させて頂きました。Kikuchiさんとは、私が新人の頃に大変お世話になった方なので、お祝いの気持ちが込み上げてきました。:)
 tags: ["Philippines", "Japan", "Learning"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614411369/silver-birder.github.io/blog/philippines_tagbilaran_bohol.jpg
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1614411369/silver-birder.github.io/blog/philippines_tagbilaran_bohol.jpg
 ---
 
 <!--  TODO: TOC -->

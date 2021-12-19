@@ -5,6 +5,7 @@ date: 2020-06-04
 description: GoogleやGithubなど、様々なサービスのプロフィール情報(画像, etc)を一括更新するツール、puppeteer-account-manager を開発しました。開発の目的や、開発から得た知見を紹介します。
 tags: ["Tool", "Artifacts", "Introduce", "Learning"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614431535/silver-birder.github.io/blog/puppeteer-account-manager_overview.png
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1614431535/silver-birder.github.io/blog/puppeteer-account-manager_overview.png
 ---
 
 GoogleやGithubなど、様々なサービスのプロフィール情報(画像, etc)を一括更新するツール、puppeteer-account-manager を開発しました。

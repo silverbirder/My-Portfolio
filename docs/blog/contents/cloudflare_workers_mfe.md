@@ -5,6 +5,7 @@ date: 2020-11-15
 description: 今回、またMicro Frontendsの構築を試みようと思います。構築パターンの内、サーバーサイド統合パターン、特にエッジサイド統合を試しました。その内容を紹介します。サンプルコードは、下記に残しています。
 tags: ["Cloudflare Workers", "Edge Worker", "Micro Frontends"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614430655/silver-birder.github.io/blog/cloudflare_worker_micro_frontends.png
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1614430655/silver-birder.github.io/blog/cloudflare_worker_micro_frontends.png
 ---
 
 今回、またMicro Frontendsの構築を試みようと思います。構築パターンの内、サーバーサイド統合パターン、特にエッジサイド統合を試しました。

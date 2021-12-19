@@ -5,6 +5,7 @@ date: 2020-10-16
 description: エンジニアは、普段様々なところから技術をキャッチアップすると思います。それは、SNSであったり、ブログであったり、動画であったりです。そこで、私の技術をキャッチアップするためのアンテナの張り方について、紹介しようと思います。
 tags: ["Antenna", "Technology"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614431574/silver-birder.github.io/blog/Photo_by_JESHOOTS_COM_on_Unsplash.jpg
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1614431574/silver-birder.github.io/blog/Photo_by_JESHOOTS_COM_on_Unsplash.jpg
 ---
 
 <!-- TODO: <span>Photo by <a href="https://unsplash.com/@jeshoots?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">JESHOOTS.COM</a> on <a href="https://unsplash.com/s/photos/tech-study-book?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> -->

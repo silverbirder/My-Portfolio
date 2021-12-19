@@ -5,6 +5,7 @@ date: 2019-07-27
 description: 今回、東京で開催されましたCloud Native Days Tokyo 2019に2日間とも参加してきましたので、報告しようと思います。セッション毎の報告というより、全体を通した感想を話そうかなと思います。
 tags: ["Report", "Cloud Native Days", "Tokyo", "Kubernetes"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614429605/silver-birder.github.io/blog/cloud_native_days_tokyo_2019.png
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1614429605/silver-birder.github.io/blog/cloud_native_days_tokyo_2019.png
 ---
 
 今回、東京で開催されましたCloud Native Days Tokyo 2019に2日間とも参加してきましたので、報告しようと思います。

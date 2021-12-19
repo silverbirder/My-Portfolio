@@ -5,6 +5,7 @@ date: 2019-06-01
 description: 大阪からKubernetes Meetup Tokyoに参加できるとのことで、こちらに参加してきました。Kubernetesの生みの親である3人の内の1人のJoe Bedaから、Kubernetesの歴史の経緯について教えて頂きました。その話がとてもわかりやすく、なるほどなと思ったので、ぜひとも共有したいと思います。
 tags: ["Report", "Kubernetes", "Tokyo", "Osaka"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614428700/silver-birder.github.io/blog/kubernetes_osaka_satellite.png
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1614428700/silver-birder.github.io/blog/kubernetes_osaka_satellite.png
 ---
 
 大阪からKubernetes Meetup Tokyoに参加できるとのことで、こちらに参加してきました。

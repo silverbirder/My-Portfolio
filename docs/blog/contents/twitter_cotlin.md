@@ -5,6 +5,7 @@ date: 2020-03-15
 description: Twitterに投稿されているLinkを収集するツール Cotlin を作りました。Collect links in tweet から、Cotlinという名前にしました。Androidのアレに似ています。
 tags: ["Tool", "Artifacts", "Introduce", "Learning", "Twitter"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1584017984/cotlin/overview.png
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1584017984/cotlin/overview.png
 ---
 
 Twitterに投稿されているLinkを収集するツール Cotlin を作りました。

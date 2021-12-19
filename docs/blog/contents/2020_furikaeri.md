@@ -5,6 +5,7 @@ date: 2020-12-30
 description: 2020年も、もう残りわずかになりました。今年の振り返りをはじめてブログに残そうと思います。
 tags: ["Looking Back"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1611128736/silver-birder.github.io/assets/logo.png
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1611128736/silver-birder.github.io/assets/logo.png
 ---
 
 2020年も、もう残りわずかになりました。今年の振り返りをはじめてブログに残そうと思います。

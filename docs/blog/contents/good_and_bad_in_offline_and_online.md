@@ -5,6 +5,7 @@ date: 2021-03-10
 description: リモートワークが普及しつつある今、オンラインでの仕事に慣れているエンジニアも多いのではないでしょうか。私も、そのエンジニアの一人であり、約1年はリモートワークしています。そんな中、久々に会社へ出社すると、気軽に話しかける楽さ を実感しました。この体験について、深堀りしたいと思います。
 tags: ["Remote Working", "Learning"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1615385315/silver-birder.github.io/blog/amy-hirschi-JaoVGh5aJ3E-unsplash.jpg
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1615385315/silver-birder.github.io/blog/amy-hirschi-JaoVGh5aJ3E-unsplash.jpg
 ---
 
 <!-- TODO: Photo by <a href="https://unsplash.com/@amyhirschi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Amy Hirschi</a> on <a href="https://unsplash.com/s/photos/consultation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> -->

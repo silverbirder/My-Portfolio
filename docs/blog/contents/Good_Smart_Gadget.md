@@ -5,6 +5,7 @@ date: 2019-03-26
 description: 私が実際に使ってみて便利だと感じたオススメ商品を３つ紹介します！
 tags: ["Smart Gadgets"]
 cover_image: https://res.cloudinary.com/silverbirder/image/upload/v1614412113/silver-birder.github.io/blog/photo_by_BENCE_BOROS_on_Unsplash.jpg
+socialMediaImage: https://res.cloudinary.com/silverbirder/image/upload/v1614412113/silver-birder.github.io/blog/photo_by_BENCE_BOROS_on_Unsplash.jpg
 ---
 
 私が実際に使ってみて便利だと感じたオススメ商品を３つ紹介します！
