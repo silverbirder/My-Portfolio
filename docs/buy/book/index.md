@@ -1,5 +1,1 @@
 # Book
-
-```js script
-
-```
