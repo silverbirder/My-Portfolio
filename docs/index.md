@@ -2,6 +2,11 @@
 title: silverbirder
 layout: layout-home-background
 slogan: Welcome to silverbirder's portfolio page!
+callToActionItems:
+  - text: Browse Blog
+    href: /blog/
+  - text: Know Resume
+    href: /resume/
 ---
 
 ```js script
