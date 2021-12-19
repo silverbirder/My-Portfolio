@@ -1,7 +1,7 @@
 ---
 title: silverbirder
 layout: layout-home-background
-slogan: Welcome to silverbirder's portfolio page!
+slogan: Welcome to silverbirder's page!
 callToActionItems:
   - text: Browse Blog
     href: /blog/

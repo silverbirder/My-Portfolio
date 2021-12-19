@@ -3,7 +3,7 @@ module.exports = function () {
     dir: 'ltr',
     lang: 'ja',
     name: 'silverbirder',
-    description: "Welcome to silverbirder's portfolio page!",
+    description: "Welcome to silverbirder's page!",
     socialLinks: [
       {
         name: 'GitHub',
