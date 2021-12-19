@@ -8,6 +8,6 @@ export default {
   presets: [
     rocketLaunch(), 
     rocketBlog(), 
-    rocketSearch(),
+    // rocketSearch(),
   ],
 };
