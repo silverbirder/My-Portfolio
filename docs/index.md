@@ -10,7 +10,7 @@ callToActionItems:
 ---
 
 ```js script
-import confetti from 'https://cdn.skypack.dev/canvas-confetti';
+import confetti from './canvas-confetti';
 confetti();
 ```
 
