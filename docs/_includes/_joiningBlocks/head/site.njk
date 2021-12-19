@@ -1,3 +1,16 @@
 <meta name="twitter:creator" content="@Silver_birder" />
 
 <link rel="stylesheet" href="{{ '/_assets/body.css' | asset | url }}" mdjs-use>
+
+<script type="module">
+class MyApp extends HTMLElement {
+
+  constructor() {
+    super();
+    const shadow = this.attachShadow({mode: 'open'});
+    shadow.innerHTML = `hello world`;
+  }
+}
+
+customElements.define('my-app', MyApp);
+</script>

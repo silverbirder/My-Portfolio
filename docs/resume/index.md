@@ -16,3 +16,12 @@
 |2021/01 ~ |SaaS会社|TODO|TODO|フロントエンドエンジニア|TODO|TODO|TODO|
 
 ## Technical skills
+
+<!-- ```js script
+(async() => {
+    const a = await (await fetch("https://raw.githubusercontent.com/Silver-birder/My-Portfolio/main/docs/resume/index.json")).json();
+    console.log(a);
+})();
+``` -->
+
+<my-app></my-app>
