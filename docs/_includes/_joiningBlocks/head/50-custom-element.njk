@@ -1,0 +1,101 @@
+<script type="module">
+class CardList extends HTMLElement {
+
+  static get observedAttributes() {
+    return ['source'];
+  }
+  styleElements () {
+    const styleElement = document.createElement('style');
+    styleElement.textContent = `
+        .card-list {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                padding-top: 40px;
+                --gap: 60px;
+                display: inline-flex;
+                flex-wrap: wrap;
+                margin: calc(-1 * var(--gap)) 0 0 calc(-1 * var(--gap));
+                width: calc(100% + var(--gap));
+                align-items: flex-start;
+        }
+        .card {
+                flex: 0 1 360px;
+                margin: var(--gap) 0 0 var(--gap);
+                box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+                transition: 0.3s;
+        }
+        .card .thumbnail {
+                background-image: url(https://res.cloudinary.com/silverbirder/image/upload/v1611128736/silver-birder.github.io/assets/logo.png);
+                background-size: cover;
+                background-position: center;
+                display: block;
+                height: 200px;
+        }
+        `;
+    return [styleElement];
+  }
+  templateElements () {
+    const cardListTemplateElement = document.createElement('template');
+    cardListTemplateElement.setAttribute('id', 'cardList');
+    cardListTemplateElement.innerHTML = `
+        <div class="card-list"></div>
+    `.trim();
+    const cardTemplateElement = document.createElement('template');
+    cardTemplateElement.setAttribute('id', 'card');
+    cardTemplateElement.innerHTML = `
+        <div class="card">
+            <a href="#" class="thumbnail"></a>
+            <div class="content">
+                <h2>Title</h2>
+                <p>contents</p>
+            </div>
+        </div>
+    `.trim();
+    return [cardListTemplateElement, cardTemplateElement]
+  }
+  constructor() {
+    super();
+    const shadow = this.attachShadow({mode: 'open'});
+    this.styleElements().map((e) => shadow.appendChild(e));
+    this.templateElements().map((e) => shadow.appendChild(e));
+  }
+
+  connectedCallback() {
+    console.log('Custom square element added to page.');
+    this.render();
+  }
+
+  disconnectedCallback() {
+    console.log('Custom square element removed from page.');
+  }
+
+  adoptedCallback() {
+    console.log('Custom square element moved to new page.');
+  }
+
+  attributeChangedCallback(name, oldValue, newValue) {
+    console.log('Custom square element attributes changed.');
+  }
+
+  async render() {
+      let cardListTemplate = this.shadowRoot.getElementById('cardList');
+      this.shadowRoot.appendChild(cardListTemplate.content.cloneNode(true));
+      const response = await this.fetch(this.getAttribute('source'));
+      response.items.map((i) => {
+        let cardTemplate = this.shadowRoot.getElementById('card');
+        let cardElement = cardTemplate.content.cloneNode(true);
+        cardElement.querySelector('.card .thumbnail').setAttribute('style', `background-image: url(${i.image});`);
+        cardElement.querySelector('h2').textContent = i.name;
+        cardElement.querySelector('p').textContent = i.results;
+        this.shadowRoot.querySelector('.card-list').appendChild(cardElement);
+      });
+  }
+
+  async fetch(uri) {
+    return (await fetch(uri)).json();
+  }
+}
+
+customElements.define('card-list', CardList);
+</script>

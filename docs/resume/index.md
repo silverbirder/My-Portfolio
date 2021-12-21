@@ -24,4 +24,4 @@
 })();
 ``` -->
 
-<my-app></my-app>
+<card-list source="https://raw.githubusercontent.com/Silver-birder/My-Portfolio/main/docs/resume/index.json"></card-list>
