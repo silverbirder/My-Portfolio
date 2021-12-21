@@ -1,6 +1,6 @@
 ---
 title: silverbirder
-layout: layout-home-background
+layout: layout-home
 slogan: Welcome to silverbirder's page!
 callToActionItems:
   - text: Browse Blog
