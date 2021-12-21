@@ -24,4 +24,4 @@
 })();
 ``` -->
 
-<card-list source="https://raw.githubusercontent.com/Silver-birder/My-Portfolio/main/docs/resume/index.json"></card-list>
+<skill-cards source="https://raw.githubusercontent.com/Silver-birder/My-Portfolio/main/docs/resume/index.json"></skill-cards>
